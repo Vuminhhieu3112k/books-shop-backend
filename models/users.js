@@ -57,5 +57,8 @@ module.exports = {
                 .updateOne({ _id: params.id }, params.body)
 
         }
+    },
+    login:(item)=>{
+        return MainModel.findOne({username: item.username,password: item.password})
     }
 }

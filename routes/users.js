@@ -42,6 +42,13 @@ router.put('/edit/:id', asyncHandler(async function (req, res, next) {
     data: data
   })
 }));
+router.post('/login', asyncHandler(async function (req, res, next) {
+  const data = await MainModel.login(req.body);
+  res.status(200).json({
+    success: true,
+    data: data
+  })
+}));
 
 module.exports = router;
 
