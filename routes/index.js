@@ -8,6 +8,8 @@ router.use('/author', require('./author'));
 router.use('/order', require('./order'));
 router.use('/publisher', require('./publisher'));
 router.use('/users', require('./users'));
+router.use('/register', require('./register'));
+
 
 
 module.exports = router;
