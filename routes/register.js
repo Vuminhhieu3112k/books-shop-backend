@@ -29,8 +29,8 @@ router.post('/add',Validate,asyncHandler(async (req, res, next) => {
     return
   }
   const data = await MainModel.create(req.body);
-  res.status(400).json({
-    success: false,
+  res.status(200).json({
+    success: true,
     message: data
   })
 }))
