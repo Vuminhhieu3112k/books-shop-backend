@@ -9,10 +9,10 @@ var schema = new mongoose.Schema({
 	birthday: String,
 	role: String,
 	cart:[{
-		idBook: mongoose.Schema.ObjectId,
+		_id: mongoose.Schema.ObjectId,
 		price: Number,
 		quantity: Number,
 		discount: Number,
 	}],
 })
-module.exports = mongoose.model(databaseConfig.users, schema)
+module.exports = mongoose.model(databaseConfig.col_users, schema)

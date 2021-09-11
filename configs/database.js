@@ -7,7 +7,7 @@ module.exports = {
     col_publisher: 'Publisher',
     col_author: 'Author',
     col_order: 'Order',
-    col_order_details: 'orderDetails',
-    users : 'Users'
+    col_users : 'Users',
+    col_topic: 'Topic'
 
 };

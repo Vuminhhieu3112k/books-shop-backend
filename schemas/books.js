@@ -11,6 +11,7 @@ var schema = new mongoose.Schema({
 	linkDoc: String,
 	idPublisher: {type:mongoose.Schema.ObjectId , ref:'Publisher'},
 	idAuthor:  [{type:mongoose.Schema.ObjectId , ref:'Author'}],
+	idTopic: {type:mongoose.Schema.ObjectId, ref:'Topic'},
 	comments: [{
 		idUser: mongoose.Schema.ObjectId,
 		comment: String

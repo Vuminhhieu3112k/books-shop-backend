@@ -1,9 +1,10 @@
-const MainModel = require('../schemas/users')
+const MainModel = require('../schemas/topic')
 
 module.exports = {
     listItem: (params, option) => {
         const queryFind = { ...params }
         let find, select, sort
+
         //Find fields
         let removeFields = ['select', 'sort', 'page', 'limit'];
         removeFields.forEach(params => delete queryFind[params])
@@ -51,15 +52,11 @@ module.exports = {
                 .deleteOne({ _id: params.id })
         }
     },
-    editItem: (params) => {
+    editItem: (params, option) => {
+        if (option.task == 'edit') {
             return MainModel
                 .updateOne({ _id: params.id }, params.body)
-    },
-    login:(item)=>{
-        return MainModel.findOne({username: item.username,password: item.password})
-    },
-    oder: (params) => {
-        return MainModel
-        .updateOne({ _id: params.id }, params.body)
+
+        }
     }
 }
