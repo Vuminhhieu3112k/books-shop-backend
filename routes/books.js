@@ -6,10 +6,12 @@ const MainModel = require('../models/books')
 
 /* GET users listing. */
 router.get('/', asyncHandler(async (req, res, next) => {
+  const dataAll = await MainModel.listItem('', { 'task': 'all' })
+
   const data = await MainModel.listItem(req.query, { 'task': 'all' })
   res.status(200).json({
     success: true,
-    count: data.length,
+    count: dataAll.length,
     data: data
   })
 }))
