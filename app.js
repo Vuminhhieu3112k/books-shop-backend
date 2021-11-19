@@ -6,7 +6,6 @@ var logger = require('morgan');
 var mongoose = require('mongoose')
 var cors = require('cors')
 var morgan = require('morgan')
-const multer  = require('multer')
 var indexRouter = require('./routes/index');
 
 var app = express();
@@ -51,14 +50,5 @@ app.use(function(req, res, next) {
 //   res.status(err.status || 500);
 //   res.end('Error App');
 // });
-const storage = multer.diskStorage({
-  destination: function (req, file, cb) {
-    cb(null, '/tmp/my-uploads')
-  },
-  filename: function (req, file, cb) {
-    const uniqueSuffix = Date.now() + '-' + Math.round(Math.random() * 1E9)
-    cb(null, file.fieldname + '-' + uniqueSuffix)
-  }
-})
-const upload = multer({ storage: storage })
+
 module.exports = app;

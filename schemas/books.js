@@ -5,10 +5,16 @@ var schema = new mongoose.Schema({
 	countExits: Number,
 	publication: String,
 	price: Number,
-	imageBook: String,
+	imageBook: {
+		data: Buffer,
+		contentType: String
+    },
 	description: String,
 	discount: Number,
-	linkDoc: String,
+	linkDoc: {
+        data: Buffer,
+        contentType: String
+    },
 	idPublisher: {type:mongoose.Schema.ObjectId , ref:'Publisher'},
 	idAuthor:  [{type:mongoose.Schema.ObjectId , ref:'Author'}],
 	idTopic: {type:mongoose.Schema.ObjectId, ref:'Topic'},

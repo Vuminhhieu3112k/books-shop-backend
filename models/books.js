@@ -4,7 +4,6 @@ module.exports = {
     listItem: (params, option) => {
         const queryFind = { ...params }
         let find, select, sort
-
         //Find fields
         let removeFields = ['select', 'sort', 'page', 'limit'];
         removeFields.forEach(params => delete queryFind[params])

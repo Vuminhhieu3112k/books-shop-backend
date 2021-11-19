@@ -6,10 +6,11 @@ const PublisherModel = require('../models/publisher')
 
 /* GET users listing. */
 router.get('/', asyncHandler(async (req, res, next) => {
+  const dataAll = await PublisherModel.listItem('', { 'task': 'all' })
   const data = await PublisherModel.listItem(req.query, { 'task': 'all' })
   res.status(200).json({
     success: true,
-    count: data.length,
+    count: dataAll.length,
     data: data
   })
 }))
