@@ -2,7 +2,6 @@ var express = require('express');
 var router = express.Router();
 var asyncHandler = require('../middleware/async')
 const multer  = require('multer')
-const fs = require("fs")
 const MainModel = require('../models/books')
 
 
@@ -11,7 +10,7 @@ var storage = multer.diskStorage({
     cb(null, './public/uploads/')
   },
   filename: function (req, file, cb) {
-    cb(null, file.fieldname + '-' + Date.now())
+    cb(null, Date.now()+ file.fieldname+ file.originalname)
   }
 })
 
@@ -33,17 +32,11 @@ router.get('/:id', asyncHandler(async function (req, res, next) {
     data: data
   })
 }));
-router.post('/add',upload.single('image'), asyncHandler(async (req, res, next) => {
-  var img = fs.readFileSync(req.file.path);
-  var encode_img = img.toString('base64');
-  var base64 = Buffer.from(encode_img,'base64');
-  req.body.imageBook = {
-    data: base64,
-    contentType: req.file.mimetype
-  };
-  const data = await MainModel.create(req.body).catch(res =>{
-    console.log(res);
-  });
+const cpUpload = upload.fields([{ name: 'imageBook', maxCount: 1 }, { name: 'linkDoc', maxCount: 1 }])
+router.post('/add',cpUpload, asyncHandler(async (req, res, next) => {
+  req.body.imageBook= req.files.imageBook[0].path;
+  req.body.linkDoc= req.files.linkDoc[0].path;
+  const data = await MainModel.create(req.body)
   res.status(200).json({
     success: true,
     data: data
