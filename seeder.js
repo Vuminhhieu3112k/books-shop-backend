@@ -6,10 +6,10 @@ global.__base           = __dirname + '/';
 
 mongoose.connect(`mongodb+srv://${databaseConfig.username}:${databaseConfig.password}@cluster0.4pg8w.mongodb.net/${databaseConfig.database}`)
 
-const ItemSchemas = require('./schemas/items')
+const ItemSchemas = require('./schemas/books')
 
 const Item = JSON.parse(
-    fs.readFileSync(`${__dirname}/_data/items.json`,'utf-8')
+    fs.readFileSync(`${__dirname}/_data/book.json`,'utf-8')
 )
 const importData = async()=>{
     try{

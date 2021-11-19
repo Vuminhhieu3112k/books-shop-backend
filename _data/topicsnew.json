@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb40"
+  },
+  "generalTopic": "Kinh tế",
+  "Topic": "Kỹ năng làm việc"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb41"
+  },
+  "generalTopic": "Kinh tế",
+  "Topic": "Đầu tư - chứng khoán"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb42"
+  },
+  "generalTopic": "Kinh tế",
+  "Topic": "Khởi nghiệp- làm giàu"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb43"
+  },
+  "generalTopic": "Kinh tế",
+  "Topic": "Kỹ năng làm việc"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb44"
+  },
+  "generalTopic": "Kinh tế",
+  "Topic": "marketing - bán hàng"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb45"
+  },
+  "generalTopic": "Kinh tế",
+  "Topic": "Nhân vật - bài học kinh doanh"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb46"
+  },
+  "generalTopic": "Kinh tế",
+  "Topic": "Quản trị - lãnh đạo"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb47"
+  },
+  "generalTopic": "Kỹ năng",
+  "Topic": "Hạt giống tâm hồn"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb48"
+  },
+  "generalTopic": "Kinh tế",
+  "Topic": "Kỹ năng giao tiếp"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb49"
+  },
+  "generalTopic": "Kinh tế",
+  "Topic": "Kỹ năng học tập"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb4a"
+  },
+  "generalTopic": "Ngoại ngữ",
+  "Topic": "Tiếng Anh"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb4b"
+  },
+  "generalTopic": "Ngoại ngữ",
+  "Topic": "Tiếng Hàn"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb4c"
+  },
+  "generalTopic": "Ngoại ngữ",
+  "Topic": "Tiếng Nhật"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb4d"
+  },
+  "generalTopic": "Ngoại ngữ",
+  "Topic": "Tiếng Trung"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb4e"
+  },
+  "generalTopic": "Ngoại ngữ",
+  "Topic": "Tiếng Pháp"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb4f"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 1"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb50"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 2"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb51"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 3"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb52"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 4"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb53"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 5"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb54"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 6"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb55"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 7"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb56"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 8"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb57"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 9"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb58"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 10"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb59"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 11"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb5a"
+  },
+  "generalTopic": "Lớp học",
+  "Topic": "Lớp 12"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb5b"
+  },
+  "generalTopic": "Ôn thi đại học",
+  "Topic": "Toán học"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb5c"
+  },
+  "generalTopic": "Ôn thi đại học",
+  "Topic": "Hóa học"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb5d"
+  },
+  "generalTopic": "Ôn thi đại học",
+  "Topic": "Vật lý"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb5e"
+  },
+  "generalTopic": "Ôn thi đại học",
+  "Topic": "Sinh học"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb5f"
+  },
+  "generalTopic": "Ôn thi đại học",
+  "Topic": "Lịch Sử"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb60"
+  },
+  "generalTopic": "Ôn thi đại học",
+  "Topic": "Địa Lý"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb61"
+  },
+  "generalTopic": "Ôn thi đại học",
+  "Topic": "Giáo dục công dân"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb62"
+  },
+  "generalTopic": "Ôn thi đại học",
+  "Topic": "Ngoại Ngữ"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb63"
+  },
+  "generalTopic": "Kỹ năng",
+  "Topic": "Hạt giống tâm hồn"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb64"
+  },
+  "generalTopic": "Kỹ năng",
+  "Topic": "Kỹ năng giao tiếp"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb65"
+  },
+  "generalTopic": "Kỹ năng",
+  "Topic": "Kỹ năng học tập"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb66"
+  },
+  "generalTopic": "Kỹ năng",
+  "Topic": "Kỹ năng sống"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb67"
+  },
+  "generalTopic": "Kỹ năng",
+  "Topic": "Nghệ thuật sống đẹp"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb68"
+  },
+  "generalTopic": "Văn học",
+  "Topic": "Tiểu sử hồi ký"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb69"
+  },
+  "generalTopic": "Văn học",
+  "Topic": "Văn học thiếu nhi"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb6a"
+  },
+  "generalTopic": "Văn học",
+  "Topic": "Văn học Việt Nam"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb6b"
+  },
+  "generalTopic": "Văn học",
+  "Topic": "Văn học Nước Ngoài"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb6c"
+  },
+  "generalTopic": "Truyền",
+  "Topic": "Truyện cổ tích Việt Nam"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb6d"
+  },
+  "generalTopic": "Truyền",
+  "Topic": "Truyện cổ tích thế giối"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb6e"
+  },
+  "generalTopic": "Truyền",
+  "Topic": "Truyện ngụ ngôn"
+},{
+  "_id": {
+    "$oid": "619780d2e1df9b8fed7cbb6f"
+  },
+  "generalTopic": "Truyền",
+  "Topic": "Truyện dân gian"
+}]

@@ -7,7 +7,7 @@ var schema = new mongoose.Schema({
 	price: Number,
 	imageBook: String,
 	description: String,
-	discount: Number,
+	discount: String,
 	linkDoc: String,
 	idPublisher: {type:mongoose.Schema.ObjectId , ref:'Publisher'},
 	idAuthor:  [{type:mongoose.Schema.ObjectId , ref:'Author'}],

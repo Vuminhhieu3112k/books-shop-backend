@@ -3,7 +3,7 @@ var router = express.Router();
 var asyncHandler = require('../middleware/async')
 const multer  = require('multer')
 const MainModel = require('../models/books')
-
+var path = require('path');
 
 var storage = multer.diskStorage({
   destination: function (req, file, cb) {
@@ -34,13 +34,17 @@ router.get('/:id', asyncHandler(async function (req, res, next) {
 }));
 const cpUpload = upload.fields([{ name: 'imageBook', maxCount: 1 }, { name: 'linkDoc', maxCount: 1 }])
 router.post('/add',cpUpload, asyncHandler(async (req, res, next) => {
-  req.body.imageBook= req.files.imageBook[0].path;
-  req.body.linkDoc= req.files.linkDoc[0].path;
+  req.body.imageBook= 'http://localhost:3000/api/v1/books/get-file/'+ req.files.imageBook[0].filename;
+  req.body.linkDoc= 'http://localhost:3000/api/v1/books/get-file/' + req.files.linkDoc[0].filename;
   const data = await MainModel.create(req.body)
   res.status(200).json({
     success: true,
     data: data
   })
+}));
+router.get('/get-file/:id', asyncHandler(async (req, res, next) => {  
+  res.sendFile(path.join(`E:/đồ án/backend/public/uploads/${req.params.id}`));
+  return
 }));
 router.delete('/delete/:id', asyncHandler(async function (req, res, next) {
   const data = await MainModel.deleteItem({ id: req.params.id }, { 'task': 'one' })
