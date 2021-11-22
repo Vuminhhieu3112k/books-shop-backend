@@ -1,716 +1,827 @@
-[{
-    "name ": "Sách Giáo Khoa Tiếng Việt Lớp 1",
-    "countExits": "2000",
-    "publication": "20/10/2020",
-    "price": "299.000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/sach-giao-khoa-tieng-viet-lop-1.jpg",
-    "description": "Sách Giáo Khoa Tiếng Việt Lớp 1 giúp các em làm quen với bảng chữ cái và các dấu câu, các âm cơ bản trong tiếng việt và học cách đánh vần. Phân biệt chữ thường, chữ hoa trong cách viết. Với những hình vẽ sinh động, thực tế và cách phát âm chính xác giúp các em làm quen với môn tiếng việt dễ dàng. Tiếng việt 1, tập 2, tiếp tục giúp các em nâng cao bằng các bài học vần, các em sẽ được hỗ trợ cách đọc, cách phát âm bằng giọng đọc chuẩn. Ngoài ra các em còn được làm quen với các hình ảnh mang tính thực tế, xác thực, giúp các em nhận biết được các sự vật,hiện tượng xung quanh một cách dễ dàng.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/[Metaisach.com]Sach-giao-khoa-tieng-viet-lop-1.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Sách Giáo Khoa Tự Nhiên Và Xã Hội Lớp 1",
-    "countExits": "1000",
-    "publication": "21/9/2020",
-    "price": "35.100",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/sach-giao-khoa-tu-nhien-va-xa-hoi-lop-1.jpg",
-    "description": "Sách Giáo Khoa Tự Nhiên Và Xã Hội Lớp 1 giúp các em nhận biết các hiện tượng sự vật xung quanh bằng các em, giúp các em có những định nghĩa và nhận thức được tầm quan trọng trong những công việc hàng ngày trong cuộc sống và giải thích các hiện tượng trong tự nhiên bằng các hình ảnh và video mang thực tế, xác thực.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/[Metaisach.com]SGK-Tu-nhien-1.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Sách Giáo Khoa Toán Lớp 1",
-    "countExits": "1000",
-    "publication": "19/9/2020",
-    "price": "36.100",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/sach-giao-khoa-toan-lop-1.jpg",
-    "description": "Sách giáo khoa Toán lớp 1, gồm các phần: Các số đến 10, hình vuông, hình tròn, hình tam giác. Phép cộng, phép trừ trong phạm vi 10. Các số trong phạm vi 100, đo độ dài. Phép cộng, phép trừ trong phạm vi 100, đo thời gian.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/[Metaisach.com]SGK-Toan-1.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Vở Bài Tập Đạo Đức Lớp 1",
-    "countExits": "1200",
-    "publication": "10/9/2020",
-    "price": "17.000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/vo-bai-tap-dao-duc-lop-1.jpg",
-    "description": "Vở Bài Tập Đạo Đức Lớp 1 dành cho học sinh lớp 1, giúp các em thực hiện các hoạt động học tập ở trên lớp.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/[Metaisach.com]Vo-BT-dao-duc-1.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Cổ Phiếu Thường Lợi Nhuận Phi Thường",
-    "countExits": "1210",
-    "publication": "19/8/2020",
-    "price": "31.600",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/co-phieu-thuong-loi-nhuan-phi-thuong.jpg",
-    "description": "Cổ Phiếu Thường Lợi Nhuận Phi Thường (Common Stocks and Uncommon Profits) là một trong cuốn sách đầu tư chứng khoan hay nhất dành cho các nhà đầu tư hiện đại. Cuốn sách sẽ mang lại cho bạn một cái nhìn toàn diện, từ những vấn đề hết sức cụ thể như sức mạnh của “lời đồn đại”, nên mua gì, khi nào, những điều nhà đầu tư cần tránh, cách tìm ra một cổ phiếu tiềm năng… cho đến phương pháp hình thành một triết lý đầu tư đem lại hiệu quả cao. Cuốn sách nằm trong “Top 10 cuốn sách về chứng khoán hay nhất mọi thời đại”.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Co-phieu-thuong-loi-nhuan-phi-thuong.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Sách Lược Đầu Tư Của Warren Buffett",
-    "countExits": "2111",
-    "publication": "18/06/2020",
-    "price": "21.300",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/sach-luoc-dau-tu-cua-warren-buffett.jpg",
-    "description": "Đây là một cuốn sách hay về đầu tư chứng khoán. Không có gì phải nghi ngờ về việc Buffett là nhà đầu tư vĩ đại nhất thế giới, ông nổi tiếng với khả năng nhạy bén và chiến lược đầu tư vững vàng. Trong những tỉ phú trên thế giới như Ông vua dầu mỏ – Rockefeller, Ông vua sắt thép – Carnegie hay thiên tài phần mềm máy tính – Bill Gates, thành công của họ đều nhờ vào những sản phẩm nổi tiếng hoặc phát minh vĩ đại, đằng sau đó là cả một đội ngũ kĩ thuật và dây chuyền sản xuất khổng lồ, nhưng thành công của Buffett lại chỉ đơn thuần dựa vào đầu tư, nhờ sự tìm hiểu kĩ lưỡng tình hình tài chính của các công ty có cổ phiếu niêm yết mà trở thành nhà đầu tư vĩ đại trong thế kỷ 20.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Sách-lược-đầu-tư-của-Warren-Buffett.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Bước Đi Ngẫu Nhiên Trên Phố Wall",
-    "countExits": "19000",
-    "publication": "19/06/2020",
-    "price": "29.800",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/buoc-di-ngau-nhien-tren-pho-wall.jpg",
-    "description": "Dựa trên những nghiên cứu mới nhất và kinh nghiệm phong phú trong nhiều vai trò: nhà kinh tế học, chuyên gia tài chính, và nhà đầu tư thành công, Malkiel sẽ cung cấp cho các nhà đầu cá nhân ở tất cả cấp độ kinh nghiệm những lập luận then chốt và chỉ dẫn chi tiết để họ tự tin tìm ra hướng đầu tư trên mọi thị trường – và tìm ra con đường chắc chắn nhất để bảo toàn và gia tăng nhanh chóng khoản tiền đầu tư. “Một cuốn sách kinh điển về thị trường chứng khoán… Kể từ lần đầu xuất bản năm 1973, Bước đi ngẫu nhiên trên Phố Wall là cuốn sách đầu tư chứng khoán hay đã giúp hàng nghìn nhà đầu tư chứng khoán có một hướng đi đúng đắn. Thậm chí nếu bạn mới đọc hay đang đọc cuốn sách này, thì một lần ôn lại cuốn sách cũng rất cần thiết… Một sự kết hợp tuyệt vời giữa lý thuyết và thực tiễn.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Bước-đi-ngẫu-nhiên-trên-phố-Wall.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Công Thức Kỳ Diệu Chinh Phục Thị Trường Chứng Khoán",
-    "countExits": "19000",
-    "publication": "19/06/2020",
-    "price": "29.800",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/cong-thuc-ky-dieu-chinh-phuc-thi-truong-chung-khoan.jpg",
-    "description": "Công Thức Kỳ Diệu Chinh Phục Thị Trường Chứng Khoán là sách dạy đầu tư chứng khoán sẽ cung cấp cho người đọc hầu hết các tri thức căn bản, quan trọng nhất là để hiểu được thị trường chứng khoán, quy tắc vận hành và đánh giá giá trị của cổ phiếu trong thị trường và đưa ra những quyết định sáng suốt, đem lại lợi nhuận cao. Đặc biệt, không như nhiều cuốn sách về lĩnh vực này – vốn đầy rẫy những thuật ngữ, khái niệm chuyên ngành, cao siêu và có phần khó hiểu – cuốn sách – với nhã ý của tác giả là để dành tặng cho những đứa trẻ, nhằm giúp chúng có thể tự kiếm được tiền từ kinh doanh chứng khoán rất sinh động hấp dẫn và dễ hiểu.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Công-thức-kỳ-diệu-chinh-phục-thị-trường-chứng-khoán.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Công Thức Của Vận May",
-    "countExits": "19000",
-    "publication": "20/06/2020",
-    "price": "19.300",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/cong-thuc-cua-van-may.jpeg",
-    "description": "Công Thức Của Vận May là sách hay về đầu tư chứng khoán kể về một câu chuyện thú vị đối với mỗi người trong chúng ta. Nó khiến ta nhớ đến những cuốn khác như “Chống lại Đức Chúa trời” của Peter L Bernstein hay cuốn “Khi những thiên tài thất bại” của Roger Lowenstein. Tất cả đều nhằm giải thích một điều rằng, vì sao những con người thông minh lại chấp nhận những sự mạo hiểm ngu ngốc. Poundstone đã chỉ cho bạn đọc thấy Công ty LTCM (công ty quản lý vốn dài hạn) đã tránh được tai hoạ như thế nào bằng cách áp dụng phương pháp Kelly. (Peter Coy, Businessweek).",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Công-thức-của-vận-may.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Tâm Lý Thị Trường Chứng Khoán",
-    "countExits": "1000",
-    "publication": "10/06/2020",
-    "price": "12.300",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/tam-ly-thi-truong-chung-khoan.jpg",
-    "description": "Cuốn sách “Giúp con vào lớp 1” của tác giả Nguyễn Hạnh – Trần Thị Hồng Ngự sẽ giúp các bậc phụ huynh chuẩn bị cho các con của mình các hành trang kiến thức cơ bản, các kĩ năng để bước vào lớp 1 một cách tự tin. Cuốn sách giúp các mẹ hướng dẫn con của mình tập viết, tập đọc, tập kể chuyện…, và dạy như thế nào cho đúng phương pháp sư phạm và khoa học.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Tâm-lý-thị-trường-chứng-khoán.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Tôi Tư Duy Tôi Thành Đạt",
-    "countExits": "9000",
-    "publication": "11/06/2020",
-    "price": "17.300",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/toi-tu-duy-toi-thanh-dat.jpg",
-    "description": "Đây là một cuốn sách hay về kỹ năng làm việc mà bạn nên đọc. Những công việc để giúp đỡ người khác lúc đầu không quan trọng. Bạn có thể phục vụ ở nhà thờ, tình nguyện làm những dịch vụ chuyên nghiệp hay đóng góp vào tổ chức từ thiện. Điểm mấu chốt ở đây là bạn phải học cách cho đi và hình thành thói quen suy nghĩ như một người cho”. Các bạn thấy sao khi đọc được đoạn này. Cuộc sống hiện tại bây giờ mấy ai có đức tính giúp đỡ người khác nhưng một bài học từ những cuốn sách của John C.Maxwell nếu bạn áp dụng thì thành công chắc chắn đến với bạn đó chính là tinh thần cho đi và sẵn sàng giúp đỡ người khác. Để biết cách thức cho đi như thế nào thì các bạn hãy tìm mua cuốn sách này nhé.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Tôi-Tư-Duy-Tôi-Thành-Đạt.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Tổ Chức Công Việc Theo Khoa Học",
-    "countExits": "10000",
-    "publication": "29/06/2020",
-    "price": "20.300",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/to-chuc-cong-viec-theo-khoa-hoc.jpg",
-    "description": "Tổ chức công việc theo khoa học là một cuốn sách kỹ năng làm việc hay dạy ta tìm kiếm những phương pháp chính xác hợp với khoa học để làm một công việc nào đó, nhỏ hoặc lớn, một cách mau chóng nhất, mà không mệt, để được lợi cho mọi người. Môn học đó, các nước Âu, Mỹ đã áp dụng từ lâu, nhất là Mỹ. Sức sản xuất của nước ta thấp nhất hoàn cầu, cho nên ta phải áp dụng nó ngay vào hết thảy các ngành hoạt động mới mong công việc kiến thiết quốc gia mau có kết quả được.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Tổ-Chức-Công-Việc-Theo-Khoa-Học.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Làm Thế Nào Để Ngủ Ít Và Làm Việc Nhiều Hơn",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/lam-the-nao-de-ngu-it-va-lam-viec-nhieu-hon.jpg",
-    "description": "Liệu có thể ngủ 4-5 giờ mà vẫn cảm thấy được nghỉ ngơi, thư giãn và nhiều năng lượng hơn khi bạn ngủ với 8 hoặc 9 giờ (hoặc hơn)? Có đấy ! Tuy cuốn sách hay về kỹ năng làm việc này ngắn ngủi nhưng những thông tin là vô cùng mạnh mẽ và không thể xem thường. Đây là những thông tin về nghệ thuật tối ưu hóa cuộc sống trong đó có thể phá vỡ một số niềm tin cũ của bạn về giấc ngủ và cung cấp cho bạn rất nhiều bài học và hiểu biết đủ để cho bạn tạo nên một cuộc cách mạng trong cuộc sống của mình.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Làm-thế-nào-để-ngủ-ít-và-làm-việc-nhiều-hơn.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Nguyên Lý 80/20: Bí Quyết Làm Ít Được Nhiều",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/nguyen-ly-80-20-bi-quyet-lam-it-duoc-nhieu.jpg",
-    "description": "Đây là một cuốn sách dạy về kỹ năng làm việc. Nguyên lý 80/20 là gì? Nguyên lý 80/20 cho chúng ta biết rằng trong bất cứ một nhóm nào cũng đều có một số đối tượng có một vai trò quan trọng hơn những đối tượng khác rất nhiều. Một mức chuẩn hoặc giả thuyết phù hợp là 80% những kết quả hoặc sản phẩm được sản sinh ra từ 20% những nguyên nhân, và nhiều khi từ một tỷ lệ nhỏ hơn nhiều những động lực có sức tác động lớn.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Nguyên-lý-80-20.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Để Tiến Thân Trong Công Việc",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/de-tien-than-trong-cong-viec.jpg",
-    "description": "Ai cũng đồng ý với quan điểm, đàn ông thành công trong sự nghiệp hơn phụ nữ vì họ không vướng bận việc tề gia nội trợ và làm mẹ. Điều này luôn đúng dù cho xã hội có phát triển hiện đại đến đâu (nó chỉ sai nếu đàn ông sinh nở!). Làm thế nào để vừa là một doanh nhân thành đạt vừa là một người mẹ tất không phải chuyện dễ dàng. Rất nhiều nữ doanh nhân cùng chia sẻ một băn khoăn: “Trong lúc làm việc, chúng ta cảm thấy lẽ ra giờ này chúng ta nên ở bên cạnh các con. Nhưng khi ở bên cạnh con, chúng ta lại nghĩ lẽ ra lúc này mình phải làm việc”. Tuy nhiên, họ vẫn thành công trong công việc và trong việc chăm sóc con cái, dù chưa bao giờ hết phân vân. Đây chắc chắn là một cuốn sách kỹ năng làm việc bạn nên đọc qua ít nhất một lần.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Để-Tiến-Thân-Trong-Công-Việc.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Cánh Tay Trái Của Sếp",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/canh-tay-trai-cua-sep.jpg",
-    "description": "Cuốn sách hay về kỹ năng làm việc này không chỉ giúp ích cho những người thư ký hành chính mà còn giúp cho tất cả những người làm việc trong văn phòng nói chung, nhất là những nhân viên mới bắt đầu công việc. Bạn có thể tìm trong thấy cuốn sách này lời giải đáp cho những thắc mắc trong buổi đầu đến chỗ làm, cuốn sách sẽ hướng dẫn bạn từ cách sử dụng những phần mềm máy tính thông dụng nhất tới những mẹo nhỏ giúp bạn hoàn tất công việc trong văn phòng.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Cánh-Tay-Trái-Của-Sếp.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Để Trở Thành Người Bán Hàng Xuất Sắc",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/de-tro-thanh-nguoi-ban-hang-xuat-sac.jpg",
-    "description": "Cuốn Để trở thành người bán hàng xuất sắc là sách bán hàng hay trình bày những bí quyết giúp bạn trở thành người bán hàng xuất sắc. Đây là một cẩm nang hướng dẫn có giá trị cho những ai mới khởi đầu sự nghiệp kinh doanh cũng như muốn tỏa sáng trong lĩnh vực bán hàng. Với những lời khuyên thiết thực và những ví dụ minh họa thực tế được tác giả chọn lọc trong quá trình kinh doanh của chính mình, bạn sẽ biết cách nâng nghệ thuật bán hàng lên một tầm cao mới.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Để-trở-thành-người-bán-hàng-xuất-sắc.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Sát Thủ Bán Hàng",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/sat-thu-ban-hang.jpg",
-    "description": "Điều khiến cuốn sách bán hàng này mang lại giá trị sâu sắc chính là cách tạo động lực của cấp trên với cấp dưới, cũng như việc các nhân viên tự tạo động lực cho chính mình để thành công trong công việc. Những động lực khiến họ có thể làm việc quên mình, toàn tâm toàn ý với mọi tiêu đã đề ra. Như Archimedes từng nói: “Hãy cho tôi một điểm tựa, tôi sẽ nhấc bổng cả Trái đất lên.” Động lực cũng chính là một điểm tựa vững chãi để cho bất kỳ ai cũng có thể làm nên được điều kỳ diệu. Và sau tất cả những thương vụ, những cuộc chạy chỉ tiêu căng thẳng tột cùng, động lực chính là nguồn sức mạnh gắn kết mọi người và khiến họ coi nhau như những người thân yêu nhất.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Sát-Thủ-Bán-Hàng.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "101+ Ý Tưởng Quảng Cáo Khôn Ngoan",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/101-y-tuong-quang-cao-khon-ngoan.jpg",
-    "description": "Đây là cuốn sách hay về marketing hay, không thể thiếu đối với các doanh nghiệp và những người quan tâm đến hoạt động quảng cáo. Qua sách, bạn sẽ học được những thủ thuật và chiến thuật thú vị từ nhiều hình mẫu kinh doanh cũng như cách áp dụng chúng vào doanh nghiệp của bạn. Những ý tưởng này sẽ cho phép bạn mở rộng hoạt động, tài sản và động lực trong hệ thống kinh doanh cũng như sử dụng kỹ năng và kiến thức để đạt được chính xác những điều bạn mong muốn.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/101+-Ý-tưởng-Quảng-Cáo-Khôn-Ngoan.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Mua Sắm Thông Minh",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/mua-sam-thong-minh.jpg",
-    "description": "Trong cuốn sách bán hàng này, Martin giật phắt những bức màn và phơi bày qua từng trang cách thức mà giới quảng cáo và doanh nghiệp khiến chúng ra cảm thấy mình sẽ bị mất mát, ngu ngốc và lạc lõng khỏi xã hội nếu ta không mua chiếc iPad mới ra hay lọ khử mùi nhãn hiệu mới hoặc chiếc ghế đẩy kiểu dáng mới với mức giá mà bạn có thể trả tiền thuê hàng tháng cho một căn hộ đơn giản hạng trung. Giống bộ phim tài liệu của tôi, mục đích của ông là phơi bày tất cả những điều đang diễn ra trong thế giới ngầm của ngành tiếp thị và quảng cáo.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Mua-Sắm-Thông-Minh.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "1001 Ý Tưởng Đột Phá Trong Quảng Cáo",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/1001-y-tuong-dot-pha-trong-quang-cao.jpg",
-    "description": "Với 1001 Ý Tưởng Đột Phá Trong Quảng Cáo bạn sẽ có một quyển sách marketing hay nhất hướng dẫn step-by-step chi tiết và dễ áp dụng để tạo nên một chiến lược quảng cáo hiệu quả, sáng tạo và gây ấn tượng. Bằng cách tổng hợp những yếu tố quyết định một quảng cáo thành công như từ ngữ có khả năng thuyết phục cao, hình ảnh thu hút, sử dụng màu sắc, bố cục bắt mắt, hài hước và nhiều nữa.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/1001-ý-tưởng-đột-phá-trong-quảng-cáo.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Cỗ Máy Bán Hàng Tối Ưu",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/co-may-ban-hang-toi-uu.jpg",
-    "description": "Cỗ máy bán hàng tối ưu của Chet Holmes – chuyên gia bán hàng hàng đầu thế giới là cuốn sách bán hàng hay sẽ mang tới cho bạn những điều thật giản dị như chính cuộc sống của bạn. Mười hai chiến lược bán hàng hiệu quả nhất từ trước đến nay thực chất là 12 công việc mà bất cứ nhân viên bán hàng chuyên nghiệp nào cũng sẽ làm nếu muốn trở thành bậc thầy bán hàng.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Cổ-máy-bán-hàng-tối-ưu.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Người Bán Hàng Vĩ Đại Nhất Thế Giới",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/nguoi-ban-hang-vi-dai-nhat-the-gioi.jpg",
-    "description": "Bạn cũng vậy, bạn học tập, tốt nghiệp và đi làm. Thực chất bạn đang bán chất xám, bán sức lao động cho công ty và nhận lại tiền lương. Vậy người thành công phải là người biết “bán hàng”. Bán hàng không đơn giản như mọi người nghĩ, mà để thành công bạn cũng cần phải có những kỹ năng cần thiết. Quyển sách Og Mandino đã tổng hợp tất cả nội dụng về bán hàng vào quyển sách bán hàng hay nhất mang tên Người bán hàng vĩ đại nhất thế giới.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Người-bán-hàng-vĩ-đại-nhất-thế-giới.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Ý Tưởng Này Là Của Chúng Mình",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/y-tuong-nay-la-cua-chung-minh.jpg",
-    "description": "Quyển sách marketing nhỏ này sẽ cung cấp cho bạn nhiều thông tin hơn về thế giới của một Công Ty Quảng Cáo Sáng Tạo (Creative Agency) và những buồn nhiều, vui chẳng thiếu của một Copywriter, nghề “thời thượng” trong mắt bạn trẻ. Tôi muốn nói lên tâm sự chung của những người trong ngành Creative. Không gì bằng niềm vui sáng tạo, vui vầy với ý tưởng mà còn được trả tiền! Đôi khi cũng có chút lăn tăn, vài bi kịch tối tạo khiến ta ngập ngừng chân bước. Không sao, dân sáng tạo chỉ thiếu tình, thiếu tiền, ý tưởng không bao giờ thiếu!",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Ý-tưởng-này-là-của-chúng-mình.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Nghệ Thuật Bán Hàng Bậc Cao",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/nghe-thuat-ban-hang-bac-cao.jpg",
-    "description": "Nhắc đến sách hay về marketing không thể không nhắc đến Zig Ziglar – người được mệnh danh là bậc thành trong bán hàng. Triết lý của ông truyền tải trong cuốn sách rất đơn giản “Bạn có thể có được tất cả mọi thứ trong cuộc sống nếu bạn biết giúp người khác đạt được điều họ muốn.” Đây là triết lý bán hàng đột phá trong giai đoạn của ông và đã giúp ông đạt được đỉnh cao trong nghệ thuật bán hàng. Và nó cũng không lỗi thời trong cuộc sống hiện nay.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Nghệ-thuật-bán-hàng-bậc-cao.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Những Đòn Tâm Lý Trong Bán Hàng",
-    "countExits": "10000",
-    "publication": "30/06/2020",
-    "price": "20.900",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/nhung-don-tam-ly-trong-ban-hang.jpg",
-    "description": "Những Đòn Tâm Lý Trong Bán Hàng chính là cuốn sách bán hàng hay mà Brian Tracy, một doanh nhân thành đạt, đúc rút từ chính câu chuyện khởi nghiệp của cuộc đời ông. Trong bán hàng, bạn chỉ cần giỏi hơn và khác biệt chút đỉnh trong mỗi công đoạn để tích lũy và dần tạo nên một khác biệt lớn về thu nhập. Nếu bạn là người bán hàng mà lại sợ bị từ chối, bạn đã chọn sai cách kiếm sống. Khách hàng không quan tâm sản phẩm của bạn là gì. Họ chỉ quan tâm sản phẩm hay dịch vụ của bạn có ích gì cho họ. Bí quyết của thành công trong kinh doanh dành cho bạn là hãy bắt đầu sớm hơn một chút, làm việc chăm chỉ hơn một chút và ở lại lâu hơn một chút.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Những-đòn-tâm-lý-bán-hàng.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Bí Quyết Kinh Doanh",
-    "countExits": "120",
-    "publication": "13/06/2020",
-    "price": "209000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/bi-quyet-kinh-doanh.jpg",
-    "description": "Lập nghiệp khó, giữ được nghiệp còn khó hơn. Cuốn sách này kết hợp kinh nghiệm thành công và bài học thất bại của những người trước, giới thiệu và phân tích từng điều cho bạn. Bạn muốn biết công ty mình tại sao kinh doanh không tốt? Bạn muốn biết công ty mình đang tiềm ẩn vấn đề gì, cách giải quyết ra sao? Bạn muốn biết công ty mình còn có việc gì cần làm mà chưa làm được không? Muốn biết làm thế nào để đột phá được hiện trạng, để nghiệp vụ công ty ngày càng tiến bộ?… Tất cả những vấn đề đó đều có thể tìm thấy câu trả lời khiến bạn thỏa mãn.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Những-đòn-tâm-lý-bán-hàng.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Tối Đa Hóa Năng Lực Nhân Viên",
-    "countExits": "120",
-    "publication": "13/06/2020",
-    "price": "209000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/toi-da-hoa-nang-luc-nhan-vien.jpg",
-    "description": "Có rất nhiều cuốn sách đã viết về việc nghệ thuật quản lý người tài nhưng chỉ một vài cuốn tập trung vào cách thức các nhà quản lý bận rộn có thể kết hợp nhiệm vụ hết sức quan trọng của họ là phát hiện ra, phát triển, và giữ những người giỏi nhất vào trong công việc hàng ngày của họ.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Tối-Đa-Hoá-Năng-Lực-Nhân-Viên.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Cuộc Chiến Trong Phòng Họp",
-    "countExits": "120",
-    "publication": "13/06/2020",
-    "price": "209000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/cuoc-chien-trong-phong-hop.jpg",
-    "description": "Cuốn sách viết về sự khác nhau trong quan điểm của giám đốc điều hành và giám đốc Marketing. Nội dung không khô khan với lý thuyết hay quá hàn lâm như cái bìa của nó gợi lên mà viết về vô số ví dụ từ các công ty, tập đoàn hùng mạnh trên thế giới với những suy xét cẩn thận của 2 tác giả về chiến lược, môi trường, thời điểm, … cho ta thấy sự cạnh tranh vừa khốc liệt cũng vừa thông minh không kém của các thương hiệu xung quanh ta.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Cuộc-Chiến-Trong-Phòng-Họp.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Đột Phá Sức Sáng Tạo",
-    "countExits": "120",
-    "publication": "13/06/2020",
-    "price": "209000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/dot-pha-suc-sang-tao.jpg",
-    "description": "Ý tưởng sáng tạo của các thiên tài được hình thành như thế nào? Cách thức tư duy đã cho ra đời bức tranh tuyệt tác Nàng Mona Lisa hay giúp khai sinh Thuyết tương đối có điểm gì khác biệt? Đặc trưng trong chiến lược tư duy của những thiên tài như Einstein, Edison, Leonardo da Vinci, Darwin, Picasso, Michelangelo, Galileo, Freud hay Mozart là gì? Chúng ta có thể học được gì từ những chiến lược đó? Đó là những câu hỏi mà các học giả và các nhà nghiên cứu đã đặt ra và cố gắng tìm kiếm lời giải từ nhiều năm nay.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Đột-Phá-Sức-Sáng-Tạo.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Giải Pháp Cho Đổi Mới Và Sáng Tạo",
-    "countExits": "120",
-    "publication": "13/06/2020",
-    "price": "209000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/giai-phap-cho-doi-moi-va-sang-tao.jpg",
-    "description": "Thị trường tài chính không ngừng đòi hỏi các giám đốc điều hành phải tạo ra sự tăng trưởng và liên tục tăng trưởng nhanh hơn nữa. Liệu họ có thể thành công với nhiệm vụ này không? Chẳng phải những cải cách có thể thỏa mãn được nhu cầu tăng trưởng này của các nhà đầu tư sẽ đòi hỏi phải tiếp nhận các rủi ro mà chính họ cũng không chấp nhận được? Vậy có giải pháp nào cho thế bế tắc này hay không?",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Giải-Pháp-Cho-Đổi-Mới-Và-Sáng-Tạo.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Bài Học Vô Giá Từ Những Điều Bình Dị",
-    "countExits": "120",
-    "publication": "13/06/2020",
-    "price": "209000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.jpg",
-    "description": "Một lần, tôi cùng vợ tham gia chương trình “Phát huy thiên tài” của Tiến sĩ Francis Xavier. Chúng tôi hết sức ấn tượng với mục tiêu phát triển nhân cách con người của chương trình này. Nó bao gồm nhiều vấn đề như quản lý thời gian, giải tỏa sự căng thẳng, nâng cao trí nhớ và sức mạnh của não bộ, tăng cường sức khỏe và hạnh phúc.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Bài-học-vô-giá-từ-những-điều-bình-dị.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Bài Học Vô Giá Từ Những Điều Bình Dị",
-    "countExits": "120",
-    "publication": "13/06/2020",
-    "price": "209000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/danh-cho-nhung-con-nguoi-vuot-len-so-phan.jpg",
-    "description": "Mỗi câu chuyện là một thông điệp có thể hàn gắn vết thương, làm thay đổi suy nghĩ, tâm hồn và đôi khi, cả cuộc đời bạn. Những câu chuyện này sẽ làm nên điều khác biệt, mang lại nguồn cảm hứng vô tận cho bạn, một khi đã được truyền cảm hứng, bạn đếu có thể đem đến những điếu tốt đẹp cho bản thân mình và những người xung quanh.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Dành-Cho-Những-Con-Người-Vượt-Lên-Số-Phận.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Hãy Yêu Cuộc Sống Bạn Chọn",
-    "countExits": "120",
-    "publication": "13/06/2020",
-    "price": "209000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/hay-yeu-cuoc-song-ban-chon.jpg",
-    "description": "Yêu thương là một trong những cách hữu hiệu nhất có thể giúp con người cảm nhận được hạnh phúc. Từ xưa đến nay, khái niệm “hạnh phúc” thường được hiểu theo nhiều nghĩa khác nhau; nhưng nghĩa cơ bản mà chúng ta thường nghĩ đến nhất là “cảm giác hài lòng, mãn nguyện”. Và một điều dễ thấy nữa là: Hạnh phúc thật sự luôn nằm trong nỗ lực không ngừng của con người, nhằm làm cho cuộc sống trở nên tốt đẹp hơn. Với mỗi cá nhân, hạnh phúc chính là sự thanh thản, sự cân bằng giữa nhiều khía cạnh của đời sống, trong mọi hoàn cảnh.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Hãy-Yêu-Thương-Cuộc-Sống.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Quà Tặng Tâm Hồn Dành Cho Tình Yêu",
-    "countExits": "120",
-    "publication": "13/06/2020",
-    "price": "209000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/qua-tang-tam-hon-danh-cho-tinh-yeu.jpg",
-    "description": "Tình yêu có một sức mạnh lớn lao và là điều diệu kỳ nhất của cuộc sống. Không nơi nào tình yêu thể hiện hết vẻ đẹp và sự kỳ diệu của nó bằng trong mối quan hệ gắn bó giữa hai con người. Quyển “Quà tặng tâm hồn dành cho tình yêu” được biên soạn với hy vọng đưa được điều kỳ diệu và bí ẩn ấy vào trong ngôn từ, những ngôn từ sẽ lay động và gõ cửa trái tim của bất kỳ ai đã yêu hoặc mong đợi tình yêu. Đây là quyển sách dành tặng các cặp vợ chồng, những đôi tình nhân và bất kỳ ai đang mơ ước tìm thấy người bạn tâm giao đích thực của mình.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Quà-Tặng-Tâm-Hồn-Dành-Cho-Tình-Yêu.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Quà Tặng Từ Trái Tim",
-    "countExits": "120",
-    "publication": "13/06/2020",
-    "price": "209000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/qua-tang-tu-trai-tim.jpg",
-    "description": "Cuộc đời là một câu chuyện. Mục đích của mỗi một đời người là sống sao cho câu chuyện về họ trở thành nguồn cảm hứng và mang lại những cảm xúc mạnh mẽ cho người khác. Những câu chuyện có một sức mạnh kỳ diệu. Chúng cho phép ta nhìn lại bản thân mình trong mối tương quan với những người xung quanh. Chúng như những tấm gương phản ánh hành động của chính chúng ta thông qua hành động của người khác. Chúng giúp chúng ta nhận ra tài năng và phẩm chất của chính mình và đóng vai trò là người nhắc nhở trung thành để chúng ta có cách cư xử phù hợp.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Quà-Tặng-Từ-Trái-Tim.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Vòng Tay Của Mẹ",
-    "countExits": "125",
-    "publication": "12/06/2020",
-    "price": "220000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/vong-tay-cua-me.jpg",
-    "description": "Mỗi câu chuyện là một thông điệp có thể hàn gắn vết thương, làm thay đổi suy nghĩ, tâm hồn và đôi khi, cả cuộc đời bạn. Chúng tôi thật sự tin rằng những câu chuyện này sẽ làm nên nhiều khác biệt, mang lại nguồn cảm hứng vô tận cho bạn, vì chính cuộc sống tinh thần của chúng tôi cũng tốt hơn sau mỗi lần đọc một câu chuyện hay. Một khi đã được truyền cảm hứng, bạn đều có thể đem đến những điều tốt đẹp cho bản thân mình và những người xung quanh.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Vòng-Tay-Của-Mẹ.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Hạt Giống Tâm Hồn Dành Cho Tuổi Teen 2",
-    "countExits": "30",
-    "publication": "12/06/2021",
-    "price": "320000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/hat-giong-tam-hon-danh-cho-tuoi-teen.jpg",
-    "description": "Dù bình dị hay phi thường thì mỗi người chúng ta đều có một ước mơ của riêng mình. Ước mơ chính là khởi điểm của niềm tin và là động lực để chúng ta vượt qua tất cả những khó khăn thử thách trong cuộc sống. Đối với các bạn trẻ, ước mơ không chỉ thể hiện khát vọng của các bạn đó còn là thông điệp tin yêu mà các bạn muốn gửi gắm đến cuộc đời.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Hạt-Giống-Tâm-Hồn-Dành-Cho-Tuổi-Teen-2.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Hạt Giống Tâm Hồn – Dành Cho Học Sinh Sinh Viên",
-    "countExits": "30",
-    "publication": "12/06/2021",
-    "price": "320000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/tim-lai-gia-tri-cuoc-song.jpg",
-    "description": "Tìm lại giá trị cuộc sống sẽ làm lay động, truyền cảm hứng và mang lại niềm vui cho bạn qua những câu chuyện của một số trong hàng triệu người trong cộng đồng đang trên đường tìm lại bản thân. Bạn sẽ nhanh chóng nhận ra rằng những câu chuyện này không hề nói đến nỗi đau đớn và tuyệt vọng, mà kể về niềm hy vọng và sự kiên cường. Đây không phải là những câu chuyện về chiến lược để thay đổi, mà là những câu chuyện về tâm hồn con người – điều sẽ chẳng thể nào chối bỏ được. Đó cũng là chuyện của những con người sẵn sàng giúp đỡ người khác thông qua việc chia sẻ về những giai đoạn khó khăn trong cuộc đời mình.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Tìm-Lại-Giá-Trị-Cuộc-Sống.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Chị Tôi",
-    "countExits": "344",
-    "publication": "17/06/2021",
-    "price": "32000",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/chi-toi.jpg",
-    "description": "Dù gắn bó do quan hệ huyết thống hay bởi “duyên” gặp gỡ, chị em gái luôn là những người hiểu nhau một cách đặc biệt. Họ không chỉ giống nhau ở diện mạo mà còn có nhiều điểm chung khác: sở thích, tính tình, cách cảm nghiệm cuộc sống. Họ hiểu nhau, chứng kiến quá trình trưởng thành của nhau, nâng bước cho nhau trước sóng gió cuộc đời.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Chị-tôi.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Từ Làng Gôi Vị Đến Kinh Thành Paris",
-    "countExits": "334",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/tu-lang-goi-vi-den-kinh-thanh-paris.jpg",
-    "description": "Tôi là kẻ giác ngộ chính trị rất chậm. Anh em thì 15-16 tuổi đã tham gia hoạt động. Tôi thì mãi gần 30 tuổi mới có một ít nhận thức về chính trị. Có lẽ tại vì cái thành phần như vậy sống từ bé không có vấn đề gì.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Từ-làng-Gôi-Vị-đến-kinh-thành-Paris.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Công Tử Bạc Liêu Sự Thật Và Giai Thoại",
-    "countExits": "334",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/cong-tu-bac-lieu-su-that-va-giai-thoai.jpg",
-    "description": "Những câu chuyện về Trần Trinh Huy – người được mệnh danh là Công tử Bạc Liêu đã diễn ra khá lâu, đến nay đã hơn nửa thế kỷ. Do trải qua nhiều biến thiên thời cuộc nên những tài liệu liên quan đến dòng họ Trần Trinh hầu như chẳng còn gì. Mọi người tiếp nhận hiện tượng này bằng những thông tin khác nhau và rời rạc qua một ít sách báo và qua truyền miệng dân gian…",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Công-tử-Bạc-Liêu-sự-thật-và-giai-thoại-Phan-Trung-Nghĩa.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Di Cảo Nguyễn Minh Châu",
-    "countExits": "334",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/di-cao-nguyen-minh-chau.jpg",
-    "description": "Vào đầu tháng 7 năm nay, những người quan tâm đến văn học Việt Nam vui mừng đón đọc cuốn Di cảo Nguyễn Minh Châu với gần 500 trang do Nhà xuất bản Hà nội phát hành. Nguyễn Minh Châu là một trong những người tiên phong trong công cuộc đổi mới văn học qua các tập truyện ngắn như Người đàn bà trên chuyến tàu tốc hành, Bến quê, Cỏ lau, qua những tiểu luận xung quanh văn chương và nghề nghiệp đã được tuyển chọn trong Trang giấy trước đèn. Di cảo Nguyễn Minh Châu đã cho chúng ta thấy rõ hơn ý thức đổi mới tư duy nghệ thuật mà với Nguyễn Minh Châu luôn luôn là nỗi trăn trở day dứt khôn nguôi, đặc biệt là trong hơn chục năm cuối đời.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Di-cảo-Nguyễn-Minh-Châu.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Được Sống Và Kể Lại",
-    "countExits": "215",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/duoc-song-va-ke-lai.jpg",
-    "description": "Một buổi tối mùa thu, tự dưng nhớ đến Được Sống và Kể Lại, mình nảy ra ý tưởng làm ebook cuốn sách này. Đây là một trong những cuốn hồi ký chiến tranh hay nhất mình từng đọc. Lúc đầu, khi đang làm, mình nghĩ được nhiều ý tưởng hay để viết lời giới thiệu cho cuốn sách, nhưng sau khi làm và đọc lại, những ý tưởng đó biến mất hết, chỉ còn lại trong tâm tư một nỗi buồn mang mác, nỗi buồn của quá khứ, của chiến tranh, của số phận con người, đặc biệt của người lính.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Được-sống-và-kể-lại.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Đệ Nhất Phu Nhân Trần Lệ Xuân",
-    "countExits": "215",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/de-nhat-phu-nhan-tran-le-xuan.jpg",
-    "description": "Những tràng đạn liên xé tan không khí nồng nực buổi trưa nắng Sài Gòn tăng thêm hơi khét cháy của mùi thuốc súng. Từng lúc tiếng nổ ầm của lựu đạn vang dội nhắc nhở mọi người là đang có đánh nhau giữa lòng thành phố. Chiến cuộc đã diễn ra từ khuya hôm qua giữa binh sĩ theo họ Ngô và nhóm Bình Xuyên.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Đệ-Nhất-Phu-Nhân-Trần-Lệ-Xuân.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Đường Tới Điện Biên Phủ",
-    "countExits": "329",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/duong-toi-dien-bien-phu.jpg",
-    "description": "Nhân dịp sắp kỷ niệm chiến thắng Điện Biên Phủ, giử tặng các bạn hồi ký của Đại tướng Võ Nguyên Giáp – Đường tới Điện Biên Phủ. Lúc đó ở đồng bằng, lực lượng của Pháp còn rất nhiều và mạnh, hơn nưa, ngay cả tướng Giáp cũng nói rằng, Việt Minh không thể tác chiến với chủ lực của Pháp ở đồng bằng được vì sẽ lâm vào thế bất lợi do không có không quan yểm trợ và cơ động thì không bằng !?!",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Đệ-Nhất-Phu-Nhân-Trần-Lệ-Xuân.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Đường Xuyên Trường Sơn",
-    "countExits": "385",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/duong-xuyen-truong-son.jpg",
-    "description": "Hơn sáu mươi năm hoạt động và công tác, kể từ trước Cách mạng tháng Tám năm 1945, tôi đã trải qua nhiều công việc, nhiều địa bàn khác nhau; khi hoạt động bí mật, lúc chiến đấu trong vùng địch hậu; khi hoạt động trong nước, khi công tác ở nước ngoài Trong chiến tranh, có lúc tôi làm chính trị, có lúc chỉ huy chiến đấu… Đất nước hoà bình, tôi chuyển sang hoạt động trên lĩnh vực kinh tế, công nghiệp, giao thông vận tải – dịch vụ, xây dựng cơ sở hạ tầng… Cũng quãng thời gian đó, tôi từng đảm trúch nhiều cương vị công tác khác nhau: cấp xã, huyện, tỉnh, quân khu, binh đoàn, tổng cục, bộ, rồi Trung ương Đảng, Chính phủ, Quốc hội…",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Đường-xuyên-Trường-Sơn.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Giải Mã Phạm Xuân Ẩn",
-    "countExits": "184",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/giai-ma-pham-xuan-an.jpg",
-    "description": "Trước khi loạt ký sự Tướng tình báo chiến lược đăng trên Thanh Niên vào năm 2001, chúng tôi đã gặp Phạm Xuân Ẩn rất nhiều lần. Càng nói chuyện với ông càng thất vọng, vì không thể “moi” được bất cứ một điệp vụ nào. Đọc cuốn sách rất hay của nhà văn Nguyễn Thị Ngọc Hải, cũng chỉ thấy cuộc đời và những triết lý của ông cùng sự thán phục của bạn bè nước ngoài, chứ không thấy ông làm những gì cụ thể. Chúng tôi buộc phải tiến hành một loạt các “điệp vụ” để phăng ra các đầu mối, gặp những “cấp trên” của ông và hầu hết những người còn sống trong mạng lưới, rồi đem những điều biết được ra hỏi ông, lúc đó ông mới chịu “mở miệng”. Chúng tôi biết tới đâu viết tới đó, đăng feuilleton hằng ngày, xen kẽ giữa những tài liệu là những cuộc phỏng vấn chính ông và một loạt các phỏng vấn các người khác. Mỗi buổi sáng ông đọc báo, lại tiếp tục trao đổi, qua điện thoại hoặc chúng tôi đến nhà ông. Ông nhắc đi nhắc lại “không nên tô vẽ”, thỉnh thoảng ông hỏi: “Cái đó ở đâu cậu có ?”. Ông bảo không nên viết dài quá, đến kỳ cuối cùng, ông gọi điện bảo: “Như vậy là được rồi”. Ông đề nghị nên in thành một cuốn sách nhưng “giá phải thật rẻ để người nghèo có thể mua đọc”.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/“Giải-mã”-Phạm-Xuân-Ẩn.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Georges Entienne Gauthier Và Những Nhạc Phẩm Của Phạm Duy",
-    "countExits": "184",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/georges-entienne-gauthier-va-nhung-nhac-pham-cua-pham-duy.jpg",
-    "description": "Phạm Duy sinh tại Hà Nội năm 1921, theo học các Trường Trung Học Thăng Long, Cao Ðẳng Mỹ Thuật, Kỹ Nghệ Thực Hành, tự học nhạc và đi huấn nghệ tại Pháp trong hai năm 1954-1955, học trò của Robert Lopez và bàng thính viên tại Institut de Musicologie, Paris.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Georges-Entienne-Gauthier-Và-những-nhạc-phẩm-của-Phạm-Duy.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Gọng Kềm Lịch Sử",
-    "countExits": "754",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/gong-kem-lich-su.jpg",
-    "description": "Một giọng nói yếu ớt, giục dã xuyên qua những tiếng ồ ồ ở đầu giây điện đàm: “Ông Diễm, Bob Shaplen đây, Bob Shaplen. Tôi đang gọi từ Hồng Kông.” Giọng nói lập đi lập lại tên người gọi, nhưng cơn ngủ say vùi vừa xong và những viên thuốc cho cơn cảm cúm khốc liệt vẫn làm tôi mù mờ về người đang gọi.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Gọng-kềm-lịch-sử.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Hồi Ký Trần Văn Giàu",
-    "countExits": "75",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/hoi-ky-tran-van-giau.jpg",
-    "description": "Tôi viết tập “hồi ký” này từ cuối những năm 1970. Viết xong, tôi nhờ anh em ở Long An ̶ tỉnh nhà ̶ đánh máy; ý muốn viết hồi ký để con cháu xem chớ không phải để in ra thành sách, vì trong hồi ký có lắm chuyện “không lấy gì làm hay”, buồn nữa là khác. Nhưng vài ba anh em Long An, không xin phép tôi, tự ý đánh máy thêm mấy bản, chỉ giao lại cho tôi hai bản, họ giữ mấy bản tôi không biết, nhưng tôi được biết họ đã chuyền tay đọc khá rộng. Nhiều bạn bảo tôi cứ phát hành tập hồi ký này đi. Tôi không ưng. Có lý do. Tôi thấy rằng không ít hồi ký đã được in ấn kể sự việc rất hay mà cũng chen vào một ít điều hoặc tác giả bịa hoặc lúc nghe kể đã thất thiệt.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Hồi-ký-Trần-Văn-Giàu.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Cambridge English Fun For Starters – Movers – Flyers 4th Edition",
-    "countExits": "515",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/cambridge-english-fun-for-starters-movers-flyers-4th-edition.jpg",
-    "description": "Bộ sách gồm 3 mức độ, trong đó mỗi bài học được trình bày với hình minh họa hấp dẫn, kèm theo đó là các hoạt động thu thút học sinh tương tác nâng cao kỹ năng. Bộ sách giúp học sinh nâng cao kỹ năng ngữ pháp, mở rộng từ vựng và đặc biệt là phát huy kỹ năng nói thông qua các hoạt động thực hành đa dạng theo nhiều chủ đề khác nhau.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Fun-for-Starters-TB-4e.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Everyday Conversations English Full Ebook + Audio",
-    "countExits": "302",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/everyday-conversations-english.jpg",
-    "description": "Bộ giáo trình “Everyday Conversations English – Learning American English” (ebook + audio) bao gồm các đoạn hội thoại xoay quanh các chủ đề về giới thiệu và câu chuyện nhỏ, mua sắm, chỉ đường, ăn uống, thời trang, sở thích và đưa ra lời khuyên trong tiếng anh giúp bạn trau dồi về cách đàm thoại và sử dụng văn phạm trong nhiều ngữ cảnh khác nhau.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/B_Dialogues_Everyday_Conversations_English_LO.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Get Ready For Flyers Full EBook + Audio",
-    "countExits": "516",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/get-ready-for-flyers.jpg",
-    "description": "Cuốn sách “Get Ready for Flyers” chứa đựng các chủ đề hay bao gồm tất cả các ngữ pháp, từ vựng và các loại công việc trong giáo trình. Sách được thiết kế với các chủ đề gần gụi, cùng với các hình ảnh sinh động, sẽ giúp các em học tốt, cảm thấy thú vị. Ngoài ra còn kèm các file audio sẽ thuận lợi cho các em rèn luyện theo giọng đọc của người bản địa.",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Get-Ready-for-Starters.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-},
-{
-    "name": "Show And Tell 1 Student Book",
-    "countExits": "274",
-    "publication": "11/05/2021",
-    "price": "320009",
-    "imageBook": "http://localhost:3000/api/v1/books/get-file/show-and-tell-1-student-book.jpg",
-    "description": "Cuốn sách “Show and Tell 1 Student book” là mức độ thứ nhất nằm trong bộ sách Show and Tell 3 mức độ của nhà xuất bản Oxford University Press cung cấp cho các em ở lứa tuổi mẫu giáo từ độ tuổi 3-5 tuổi, đây là một trong những bộ sách nổi tiếng của nhà xuất bản này, hiện được nhiều trung tâm dạy anh ngữ lựa chọn là giáo trình chính để dạy các em nhỏ. Với việc bố trí các chủ đề nhẹ nhàng cộng với hình ảnh minh họa sinh động, bắt mắt dễ lôi cuốn các em học tập và vui đùa",
-    "discount": "10%",
-    "linkDoc": "http://localhost:3000/api/v1/books/get-file/Show-and-Tell-1-Activity-Book.pdf",
-    "idPublisher":"",
-	"idAuthor":  "",
-	"idTopic": ""
-}
+[
+    {
+        "name": "Sách Giáo Khoa Tiếng Việt Lớp 1",
+        "countExits": "2000",
+        "publication": "20/10/2020",
+        "price": "299000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/sach-giao-khoa-tieng-viet-lop-1.jpg",
+        "description": "Sách Giáo Khoa Tiếng Việt Lớp 1 giúp các em làm quen với bảng chữ cái và các dấu câu, các âm cơ bản trong tiếng việt và học cách đánh vần. Phân biệt chữ thường, chữ hoa trong cách viết. Với những hình vẽ sinh động, thực tế và cách phát âm chính xác giúp các em làm quen với môn tiếng việt dễ dàng. Tiếng việt 1, tập 2, tiếp tục giúp các em nâng cao bằng các bài học vần, các em sẽ được hỗ trợ cách đọc, cách phát âm bằng giọng đọc chuẩn. Ngoài ra các em còn được làm quen với các hình ảnh mang tính thực tế, xác thực, giúp các em nhận biết được các sự vật,hiện tượng xung quanh một cách dễ dàng.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/[Metaisach.com]Sach-giao-khoa-tieng-viet-lop-1.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb4f"
+        }
+    },
+    {
+        "name": "Sách Giáo Khoa Tự Nhiên Và Xã Hội Lớp 1",
+        "countExits": "1000",
+        "publication": "21/9/2020",
+        "price": "35100",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/sach-giao-khoa-tu-nhien-va-xa-hoi-lop-1.jpg",
+        "description": "Sách Giáo Khoa Tự Nhiên Và Xã Hội Lớp 1 giúp các em nhận biết các hiện tượng sự vật xung quanh bằng các em, giúp các em có những định nghĩa và nhận thức được tầm quan trọng trong những công việc hàng ngày trong cuộc sống và giải thích các hiện tượng trong tự nhiên bằng các hình ảnh và video mang thực tế, xác thực.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/[Metaisach.com]SGK-Tu-nhien-1.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb4f"
+        }
+    },
+    {
+        "name": "Sách Giáo Khoa Toán Lớp 1",
+        "countExits": "1000",
+        "publication": "19/9/2020",
+        "price": "36100",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/sach-giao-khoa-toan-lop-1.jpg",
+        "description": "Sách giáo khoa Toán lớp 1, gồm các phần: Các số đến 10, hình vuông, hình tròn, hình tam giác. Phép cộng, phép trừ trong phạm vi 10. Các số trong phạm vi 100, đo độ dài. Phép cộng, phép trừ trong phạm vi 100, đo thời gian.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/[Metaisach.com]SGK-Toan-1.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb4f"
+        }
+    },
+    {
+        "name": "Vở Bài Tập Đạo Đức Lớp 1",
+        "countExits": "1200",
+        "publication": "10/9/2020",
+        "price": "17000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/vo-bai-tap-dao-duc-lop-1.jpg",
+        "description": "Vở Bài Tập Đạo Đức Lớp 1 dành cho học sinh lớp 1, giúp các em thực hiện các hoạt động học tập ở trên lớp.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/[Metaisach.com]Vo-BT-dao-duc-1.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb4f"
+        }
+    },
+    {
+        "name": "Cổ Phiếu Thường Lợi Nhuận Phi Thường",
+        "countExits": "1210",
+        "publication": "19/8/2020",
+        "price": "31600",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/co-phieu-thuong-loi-nhuan-phi-thuong.jpg",
+        "description": "Cổ Phiếu Thường Lợi Nhuận Phi Thường (Common Stocks and Uncommon Profits) là một trong cuốn sách đầu tư chứng khoan hay nhất dành cho các nhà đầu tư hiện đại. Cuốn sách sẽ mang lại cho bạn một cái nhìn toàn diện, từ những vấn đề hết sức cụ thể như sức mạnh của “lời đồn đại”, nên mua gì, khi nào, những điều nhà đầu tư cần tránh, cách tìm ra một cổ phiếu tiềm năng… cho đến phương pháp hình thành một triết lý đầu tư đem lại hiệu quả cao. Cuốn sách nằm trong “Top 10 cuốn sách về chứng khoán hay nhất mọi thời đại”.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Co-phieu-thuong-loi-nhuan-phi-thuong.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb41"
+        }
+    },
+    {
+        "name": "Sách Lược Đầu Tư Của Warren Buffett",
+        "countExits": "2111",
+        "publication": "18/06/2020",
+        "price": "21300",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/sach-luoc-dau-tu-cua-warren-buffett.jpg",
+        "description": "Đây là một cuốn sách hay về đầu tư chứng khoán. Không có gì phải nghi ngờ về việc Buffett là nhà đầu tư vĩ đại nhất thế giới, ông nổi tiếng với khả năng nhạy bén và chiến lược đầu tư vững vàng. Trong những tỉ phú trên thế giới như Ông vua dầu mỏ – Rockefeller, Ông vua sắt thép – Carnegie hay thiên tài phần mềm máy tính – Bill Gates, thành công của họ đều nhờ vào những sản phẩm nổi tiếng hoặc phát minh vĩ đại, đằng sau đó là cả một đội ngũ kĩ thuật và dây chuyền sản xuất khổng lồ, nhưng thành công của Buffett lại chỉ đơn thuần dựa vào đầu tư, nhờ sự tìm hiểu kĩ lưỡng tình hình tài chính của các công ty có cổ phiếu niêm yết mà trở thành nhà đầu tư vĩ đại trong thế kỷ 20.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Sách-lược-đầu-tư-của-Warren-Buffett.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb41"
+        }
+    },
+    {
+        "name": "Bước Đi Ngẫu Nhiên Trên Phố Wall",
+        "countExits": "19000",
+        "publication": "19/06/2020",
+        "price": "29800",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/buoc-di-ngau-nhien-tren-pho-wall.jpg",
+        "description": "Dựa trên những nghiên cứu mới nhất và kinh nghiệm phong phú trong nhiều vai trò: nhà kinh tế học, chuyên gia tài chính, và nhà đầu tư thành công, Malkiel sẽ cung cấp cho các nhà đầu cá nhân ở tất cả cấp độ kinh nghiệm những lập luận then chốt và chỉ dẫn chi tiết để họ tự tin tìm ra hướng đầu tư trên mọi thị trường – và tìm ra con đường chắc chắn nhất để bảo toàn và gia tăng nhanh chóng khoản tiền đầu tư. “Một cuốn sách kinh điển về thị trường chứng khoán… Kể từ lần đầu xuất bản năm 1973, Bước đi ngẫu nhiên trên Phố Wall là cuốn sách đầu tư chứng khoán hay đã giúp hàng nghìn nhà đầu tư chứng khoán có một hướng đi đúng đắn. Thậm chí nếu bạn mới đọc hay đang đọc cuốn sách này, thì một lần ôn lại cuốn sách cũng rất cần thiết… Một sự kết hợp tuyệt vời giữa lý thuyết và thực tiễn.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Bước-đi-ngẫu-nhiên-trên-phố-Wall.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb42"
+        }
+    },
+    {
+        "name": "Công Thức Kỳ Diệu Chinh Phục Thị Trường Chứng Khoán",
+        "countExits": "19000",
+        "publication": "19/06/2020",
+        "price": "29800",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/cong-thuc-ky-dieu-chinh-phuc-thi-truong-chung-khoan.jpg",
+        "description": "Công Thức Kỳ Diệu Chinh Phục Thị Trường Chứng Khoán là sách dạy đầu tư chứng khoán sẽ cung cấp cho người đọc hầu hết các tri thức căn bản, quan trọng nhất là để hiểu được thị trường chứng khoán, quy tắc vận hành và đánh giá giá trị của cổ phiếu trong thị trường và đưa ra những quyết định sáng suốt, đem lại lợi nhuận cao. Đặc biệt, không như nhiều cuốn sách về lĩnh vực này – vốn đầy rẫy những thuật ngữ, khái niệm chuyên ngành, cao siêu và có phần khó hiểu – cuốn sách – với nhã ý của tác giả là để dành tặng cho những đứa trẻ, nhằm giúp chúng có thể tự kiếm được tiền từ kinh doanh chứng khoán rất sinh động hấp dẫn và dễ hiểu.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Công-thức-kỳ-diệu-chinh-phục-thị-trường-chứng-khoán.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb42"
+        }
+    },
+    {
+        "name": "Công Thức Của Vận May",
+        "countExits": "19000",
+        "publication": "20/06/2020",
+        "price": "19300",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/cong-thuc-cua-van-may.jpeg",
+        "description": "Công Thức Của Vận May là sách hay về đầu tư chứng khoán kể về một câu chuyện thú vị đối với mỗi người trong chúng ta. Nó khiến ta nhớ đến những cuốn khác như “Chống lại Đức Chúa trời” của Peter L Bernstein hay cuốn “Khi những thiên tài thất bại” của Roger Lowenstein. Tất cả đều nhằm giải thích một điều rằng, vì sao những con người thông minh lại chấp nhận những sự mạo hiểm ngu ngốc. Poundstone đã chỉ cho bạn đọc thấy Công ty LTCM (công ty quản lý vốn dài hạn) đã tránh được tai hoạ như thế nào bằng cách áp dụng phương pháp Kelly. (Peter Coy, Businessweek).",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Công-thức-của-vận-may.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb41"
+        }
+    },
+    {
+        "name": "Tâm Lý Thị Trường Chứng Khoán",
+        "countExits": "1000",
+        "publication": "10/06/2020",
+        "price": "12300",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/tam-ly-thi-truong-chung-khoan.jpg",
+        "description": "Cuốn sách “Giúp con vào lớp 1” của tác giả Nguyễn Hạnh – Trần Thị Hồng Ngự sẽ giúp các bậc phụ huynh chuẩn bị cho các con của mình các hành trang kiến thức cơ bản, các kĩ năng để bước vào lớp 1 một cách tự tin. Cuốn sách giúp các mẹ hướng dẫn con của mình tập viết, tập đọc, tập kể chuyện…, và dạy như thế nào cho đúng phương pháp sư phạm và khoa học.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Tâm-lý-thị-trường-chứng-khoán.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb41"
+        }
+    },
+    {
+        "name": "Tôi Tư Duy Tôi Thành Đạt",
+        "countExits": "9000",
+        "publication": "11/06/2020",
+        "price": "17300",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/toi-tu-duy-toi-thanh-dat.jpg",
+        "description": "Đây là một cuốn sách hay về kỹ năng làm việc mà bạn nên đọc. Những công việc để giúp đỡ người khác lúc đầu không quan trọng. Bạn có thể phục vụ ở nhà thờ, tình nguyện làm những dịch vụ chuyên nghiệp hay đóng góp vào tổ chức từ thiện. Điểm mấu chốt ở đây là bạn phải học cách cho đi và hình thành thói quen suy nghĩ như một người cho”. Các bạn thấy sao khi đọc được đoạn này. Cuộc sống hiện tại bây giờ mấy ai có đức tính giúp đỡ người khác nhưng một bài học từ những cuốn sách của John C.Maxwell nếu bạn áp dụng thì thành công chắc chắn đến với bạn đó chính là tinh thần cho đi và sẵn sàng giúp đỡ người khác. Để biết cách thức cho đi như thế nào thì các bạn hãy tìm mua cuốn sách này nhé.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Tôi-Tư-Duy-Tôi-Thành-Đạt.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb43"
+        }
+    },
+    {
+        "name": "Tổ Chức Công Việc Theo Khoa Học",
+        "countExits": "10000",
+        "publication": "29/06/2020",
+        "price": "20300",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/to-chuc-cong-viec-theo-khoa-hoc.jpg",
+        "description": "Tổ chức công việc theo khoa học là một cuốn sách kỹ năng làm việc hay dạy ta tìm kiếm những phương pháp chính xác hợp với khoa học để làm một công việc nào đó, nhỏ hoặc lớn, một cách mau chóng nhất, mà không mệt, để được lợi cho mọi người. Môn học đó, các nước Âu, Mỹ đã áp dụng từ lâu, nhất là Mỹ. Sức sản xuất của nước ta thấp nhất hoàn cầu, cho nên ta phải áp dụng nó ngay vào hết thảy các ngành hoạt động mới mong công việc kiến thiết quốc gia mau có kết quả được.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Tổ-Chức-Công-Việc-Theo-Khoa-Học.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb43"
+        }
+    },
+    {
+        "name": "Làm Thế Nào Để Ngủ Ít Và Làm Việc Nhiều Hơn",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/lam-the-nao-de-ngu-it-va-lam-viec-nhieu-hon.jpg",
+        "description": "Liệu có thể ngủ 4-5 giờ mà vẫn cảm thấy được nghỉ ngơi, thư giãn và nhiều năng lượng hơn khi bạn ngủ với 8 hoặc 9 giờ (hoặc hơn)? Có đấy ! Tuy cuốn sách hay về kỹ năng làm việc này ngắn ngủi nhưng những thông tin là vô cùng mạnh mẽ và không thể xem thường. Đây là những thông tin về nghệ thuật tối ưu hóa cuộc sống trong đó có thể phá vỡ một số niềm tin cũ của bạn về giấc ngủ và cung cấp cho bạn rất nhiều bài học và hiểu biết đủ để cho bạn tạo nên một cuộc cách mạng trong cuộc sống của mình.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Làm-thế-nào-để-ngủ-ít-và-làm-việc-nhiều-hơn.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb43"
+        }
+    },
+    {
+        "name": "Nguyên Lý 80/20: Bí Quyết Làm Ít Được Nhiều",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/nguyen-ly-80-20-bi-quyet-lam-it-duoc-nhieu.jpg",
+        "description": "Đây là một cuốn sách dạy về kỹ năng làm việc. Nguyên lý 80/20 là gì? Nguyên lý 80/20 cho chúng ta biết rằng trong bất cứ một nhóm nào cũng đều có một số đối tượng có một vai trò quan trọng hơn những đối tượng khác rất nhiều. Một mức chuẩn hoặc giả thuyết phù hợp là 80% những kết quả hoặc sản phẩm được sản sinh ra từ 20% những nguyên nhân, và nhiều khi từ một tỷ lệ nhỏ hơn nhiều những động lực có sức tác động lớn.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Nguyên-lý-80-20.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb43"
+        }
+    },
+    {
+        "name": "Để Tiến Thân Trong Công Việc",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/de-tien-than-trong-cong-viec.jpg",
+        "description": "Ai cũng đồng ý với quan điểm, đàn ông thành công trong sự nghiệp hơn phụ nữ vì họ không vướng bận việc tề gia nội trợ và làm mẹ. Điều này luôn đúng dù cho xã hội có phát triển hiện đại đến đâu (nó chỉ sai nếu đàn ông sinh nở!). Làm thế nào để vừa là một doanh nhân thành đạt vừa là một người mẹ tất không phải chuyện dễ dàng. Rất nhiều nữ doanh nhân cùng chia sẻ một băn khoăn: “Trong lúc làm việc, chúng ta cảm thấy lẽ ra giờ này chúng ta nên ở bên cạnh các con. Nhưng khi ở bên cạnh con, chúng ta lại nghĩ lẽ ra lúc này mình phải làm việc”. Tuy nhiên, họ vẫn thành công trong công việc và trong việc chăm sóc con cái, dù chưa bao giờ hết phân vân. Đây chắc chắn là một cuốn sách kỹ năng làm việc bạn nên đọc qua ít nhất một lần.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Để-Tiến-Thân-Trong-Công-Việc.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb43"
+        }
+    },
+    {
+        "name": "Cánh Tay Trái Của Sếp",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/canh-tay-trai-cua-sep.jpg",
+        "description": "Cuốn sách hay về kỹ năng làm việc này không chỉ giúp ích cho những người thư ký hành chính mà còn giúp cho tất cả những người làm việc trong văn phòng nói chung, nhất là những nhân viên mới bắt đầu công việc. Bạn có thể tìm trong thấy cuốn sách này lời giải đáp cho những thắc mắc trong buổi đầu đến chỗ làm, cuốn sách sẽ hướng dẫn bạn từ cách sử dụng những phần mềm máy tính thông dụng nhất tới những mẹo nhỏ giúp bạn hoàn tất công việc trong văn phòng.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Cánh-Tay-Trái-Của-Sếp.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb43"
+        }
+    },
+    {
+        "name": "Để Trở Thành Người Bán Hàng Xuất Sắc",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/de-tro-thanh-nguoi-ban-hang-xuat-sac.jpg",
+        "description": "Cuốn Để trở thành người bán hàng xuất sắc là sách bán hàng hay trình bày những bí quyết giúp bạn trở thành người bán hàng xuất sắc. Đây là một cẩm nang hướng dẫn có giá trị cho những ai mới khởi đầu sự nghiệp kinh doanh cũng như muốn tỏa sáng trong lĩnh vực bán hàng. Với những lời khuyên thiết thực và những ví dụ minh họa thực tế được tác giả chọn lọc trong quá trình kinh doanh của chính mình, bạn sẽ biết cách nâng nghệ thuật bán hàng lên một tầm cao mới.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Để-trở-thành-người-bán-hàng-xuất-sắc.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb44"
+        }
+    },
+    {
+        "name": "Sát Thủ Bán Hàng",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/sat-thu-ban-hang.jpg",
+        "description": "Điều khiến cuốn sách bán hàng này mang lại giá trị sâu sắc chính là cách tạo động lực của cấp trên với cấp dưới, cũng như việc các nhân viên tự tạo động lực cho chính mình để thành công trong công việc. Những động lực khiến họ có thể làm việc quên mình, toàn tâm toàn ý với mọi tiêu đã đề ra. Như Archimedes từng nói: “Hãy cho tôi một điểm tựa, tôi sẽ nhấc bổng cả Trái đất lên.” Động lực cũng chính là một điểm tựa vững chãi để cho bất kỳ ai cũng có thể làm nên được điều kỳ diệu. Và sau tất cả những thương vụ, những cuộc chạy chỉ tiêu căng thẳng tột cùng, động lực chính là nguồn sức mạnh gắn kết mọi người và khiến họ coi nhau như những người thân yêu nhất.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Sát-Thủ-Bán-Hàng.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb44"
+        }
+    },
+    {
+        "name": "101+ Ý Tưởng Quảng Cáo Khôn Ngoan",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/101-y-tuong-quang-cao-khon-ngoan.jpg",
+        "description": "Đây là cuốn sách hay về marketing hay, không thể thiếu đối với các doanh nghiệp và những người quan tâm đến hoạt động quảng cáo. Qua sách, bạn sẽ học được những thủ thuật và chiến thuật thú vị từ nhiều hình mẫu kinh doanh cũng như cách áp dụng chúng vào doanh nghiệp của bạn. Những ý tưởng này sẽ cho phép bạn mở rộng hoạt động, tài sản và động lực trong hệ thống kinh doanh cũng như sử dụng kỹ năng và kiến thức để đạt được chính xác những điều bạn mong muốn.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/101+-Ý-tưởng-Quảng-Cáo-Khôn-Ngoan.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb44"
+        }
+    },
+    {
+        "name": "Mua Sắm Thông Minh",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/mua-sam-thong-minh.jpg",
+        "description": "Trong cuốn sách bán hàng này, Martin giật phắt những bức màn và phơi bày qua từng trang cách thức mà giới quảng cáo và doanh nghiệp khiến chúng ra cảm thấy mình sẽ bị mất mát, ngu ngốc và lạc lõng khỏi xã hội nếu ta không mua chiếc iPad mới ra hay lọ khử mùi nhãn hiệu mới hoặc chiếc ghế đẩy kiểu dáng mới với mức giá mà bạn có thể trả tiền thuê hàng tháng cho một căn hộ đơn giản hạng trung. Giống bộ phim tài liệu của tôi, mục đích của ông là phơi bày tất cả những điều đang diễn ra trong thế giới ngầm của ngành tiếp thị và quảng cáo.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Mua-Sắm-Thông-Minh.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb44"
+        }
+    },
+    {
+        "name": "1001 Ý Tưởng Đột Phá Trong Quảng Cáo",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/1001-y-tuong-dot-pha-trong-quang-cao.jpg",
+        "description": "Với 1001 Ý Tưởng Đột Phá Trong Quảng Cáo bạn sẽ có một quyển sách marketing hay nhất hướng dẫn step-by-step chi tiết và dễ áp dụng để tạo nên một chiến lược quảng cáo hiệu quả, sáng tạo và gây ấn tượng. Bằng cách tổng hợp những yếu tố quyết định một quảng cáo thành công như từ ngữ có khả năng thuyết phục cao, hình ảnh thu hút, sử dụng màu sắc, bố cục bắt mắt, hài hước và nhiều nữa.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/1001-ý-tưởng-đột-phá-trong-quảng-cáo.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb44"
+        }
+    },
+    {
+        "name": "Cỗ Máy Bán Hàng Tối Ưu",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/co-may-ban-hang-toi-uu.jpg",
+        "description": "Cỗ máy bán hàng tối ưu của Chet Holmes – chuyên gia bán hàng hàng đầu thế giới là cuốn sách bán hàng hay sẽ mang tới cho bạn những điều thật giản dị như chính cuộc sống của bạn. Mười hai chiến lược bán hàng hiệu quả nhất từ trước đến nay thực chất là 12 công việc mà bất cứ nhân viên bán hàng chuyên nghiệp nào cũng sẽ làm nếu muốn trở thành bậc thầy bán hàng.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Cổ-máy-bán-hàng-tối-ưu.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb44"
+        }
+    },
+    {
+        "name": "Người Bán Hàng Vĩ Đại Nhất Thế Giới",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/nguoi-ban-hang-vi-dai-nhat-the-gioi.jpg",
+        "description": "Bạn cũng vậy, bạn học tập, tốt nghiệp và đi làm. Thực chất bạn đang bán chất xám, bán sức lao động cho công ty và nhận lại tiền lương. Vậy người thành công phải là người biết “bán hàng”. Bán hàng không đơn giản như mọi người nghĩ, mà để thành công bạn cũng cần phải có những kỹ năng cần thiết. Quyển sách Og Mandino đã tổng hợp tất cả nội dụng về bán hàng vào quyển sách bán hàng hay nhất mang tên Người bán hàng vĩ đại nhất thế giới.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Người-bán-hàng-vĩ-đại-nhất-thế-giới.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb45"
+        }
+    },
+    {
+        "name": "Ý Tưởng Này Là Của Chúng Mình",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/y-tuong-nay-la-cua-chung-minh.jpg",
+        "description": "Quyển sách marketing nhỏ này sẽ cung cấp cho bạn nhiều thông tin hơn về thế giới của một Công Ty Quảng Cáo Sáng Tạo (Creative Agency) và những buồn nhiều, vui chẳng thiếu của một Copywriter, nghề “thời thượng” trong mắt bạn trẻ. Tôi muốn nói lên tâm sự chung của những người trong ngành Creative. Không gì bằng niềm vui sáng tạo, vui vầy với ý tưởng mà còn được trả tiền! Đôi khi cũng có chút lăn tăn, vài bi kịch tối tạo khiến ta ngập ngừng chân bước. Không sao, dân sáng tạo chỉ thiếu tình, thiếu tiền, ý tưởng không bao giờ thiếu!",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Ý-tưởng-này-là-của-chúng-mình.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb45"
+        }
+    },
+    {
+        "name": "Nghệ Thuật Bán Hàng Bậc Cao",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/nghe-thuat-ban-hang-bac-cao.jpg",
+        "description": "Nhắc đến sách hay về marketing không thể không nhắc đến Zig Ziglar – người được mệnh danh là bậc thành trong bán hàng. Triết lý của ông truyền tải trong cuốn sách rất đơn giản “Bạn có thể có được tất cả mọi thứ trong cuộc sống nếu bạn biết giúp người khác đạt được điều họ muốn.” Đây là triết lý bán hàng đột phá trong giai đoạn của ông và đã giúp ông đạt được đỉnh cao trong nghệ thuật bán hàng. Và nó cũng không lỗi thời trong cuộc sống hiện nay.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Nghệ-thuật-bán-hàng-bậc-cao.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb44"
+        }
+    },
+    {
+        "name": "Những Đòn Tâm Lý Trong Bán Hàng",
+        "countExits": "10000",
+        "publication": "30/06/2020",
+        "price": "20900",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/nhung-don-tam-ly-trong-ban-hang.jpg",
+        "description": "Những Đòn Tâm Lý Trong Bán Hàng chính là cuốn sách bán hàng hay mà Brian Tracy, một doanh nhân thành đạt, đúc rút từ chính câu chuyện khởi nghiệp của cuộc đời ông. Trong bán hàng, bạn chỉ cần giỏi hơn và khác biệt chút đỉnh trong mỗi công đoạn để tích lũy và dần tạo nên một khác biệt lớn về thu nhập. Nếu bạn là người bán hàng mà lại sợ bị từ chối, bạn đã chọn sai cách kiếm sống. Khách hàng không quan tâm sản phẩm của bạn là gì. Họ chỉ quan tâm sản phẩm hay dịch vụ của bạn có ích gì cho họ. Bí quyết của thành công trong kinh doanh dành cho bạn là hãy bắt đầu sớm hơn một chút, làm việc chăm chỉ hơn một chút và ở lại lâu hơn một chút.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Những-đòn-tâm-lý-bán-hàng.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb44"
+        }
+    },
+    {
+        "name": "Bí Quyết Kinh Doanh",
+        "countExits": "120",
+        "publication": "13/06/2020",
+        "price": "209000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/bi-quyet-kinh-doanh.jpg",
+        "description": "Lập nghiệp khó, giữ được nghiệp còn khó hơn. Cuốn sách này kết hợp kinh nghiệm thành công và bài học thất bại của những người trước, giới thiệu và phân tích từng điều cho bạn. Bạn muốn biết công ty mình tại sao kinh doanh không tốt? Bạn muốn biết công ty mình đang tiềm ẩn vấn đề gì, cách giải quyết ra sao? Bạn muốn biết công ty mình còn có việc gì cần làm mà chưa làm được không? Muốn biết làm thế nào để đột phá được hiện trạng, để nghiệp vụ công ty ngày càng tiến bộ?… Tất cả những vấn đề đó đều có thể tìm thấy câu trả lời khiến bạn thỏa mãn.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Những-đòn-tâm-lý-bán-hàng.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb46"
+        }
+    },
+    {
+        "name": "Tối Đa Hóa Năng Lực Nhân Viên",
+        "countExits": "120",
+        "publication": "13/06/2020",
+        "price": "209000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/toi-da-hoa-nang-luc-nhan-vien.jpg",
+        "description": "Có rất nhiều cuốn sách đã viết về việc nghệ thuật quản lý người tài nhưng chỉ một vài cuốn tập trung vào cách thức các nhà quản lý bận rộn có thể kết hợp nhiệm vụ hết sức quan trọng của họ là phát hiện ra, phát triển, và giữ những người giỏi nhất vào trong công việc hàng ngày của họ.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Tối-Đa-Hoá-Năng-Lực-Nhân-Viên.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb46"
+        }
+    },
+    {
+        "name": "Cuộc Chiến Trong Phòng Họp",
+        "countExits": "120",
+        "publication": "13/06/2020",
+        "price": "209000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/cuoc-chien-trong-phong-hop.jpg",
+        "description": "Cuốn sách viết về sự khác nhau trong quan điểm của giám đốc điều hành và giám đốc Marketing. Nội dung không khô khan với lý thuyết hay quá hàn lâm như cái bìa của nó gợi lên mà viết về vô số ví dụ từ các công ty, tập đoàn hùng mạnh trên thế giới với những suy xét cẩn thận của 2 tác giả về chiến lược, môi trường, thời điểm, … cho ta thấy sự cạnh tranh vừa khốc liệt cũng vừa thông minh không kém của các thương hiệu xung quanh ta.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Cuộc-Chiến-Trong-Phòng-Họp.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb46"
+        }
+    },
+    {
+        "name": "Đột Phá Sức Sáng Tạo",
+        "countExits": "120",
+        "publication": "13/06/2020",
+        "price": "209000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/dot-pha-suc-sang-tao.jpg",
+        "description": "Ý tưởng sáng tạo của các thiên tài được hình thành như thế nào? Cách thức tư duy đã cho ra đời bức tranh tuyệt tác Nàng Mona Lisa hay giúp khai sinh Thuyết tương đối có điểm gì khác biệt? Đặc trưng trong chiến lược tư duy của những thiên tài như Einstein, Edison, Leonardo da Vinci, Darwin, Picasso, Michelangelo, Galileo, Freud hay Mozart là gì? Chúng ta có thể học được gì từ những chiến lược đó? Đó là những câu hỏi mà các học giả và các nhà nghiên cứu đã đặt ra và cố gắng tìm kiếm lời giải từ nhiều năm nay.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Đột-Phá-Sức-Sáng-Tạo.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb46"
+        }
+    },
+    {
+        "name": "Giải Pháp Cho Đổi Mới Và Sáng Tạo",
+        "countExits": "120",
+        "publication": "13/06/2020",
+        "price": "209000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/giai-phap-cho-doi-moi-va-sang-tao.jpg",
+        "description": "Thị trường tài chính không ngừng đòi hỏi các giám đốc điều hành phải tạo ra sự tăng trưởng và liên tục tăng trưởng nhanh hơn nữa. Liệu họ có thể thành công với nhiệm vụ này không? Chẳng phải những cải cách có thể thỏa mãn được nhu cầu tăng trưởng này của các nhà đầu tư sẽ đòi hỏi phải tiếp nhận các rủi ro mà chính họ cũng không chấp nhận được? Vậy có giải pháp nào cho thế bế tắc này hay không?",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Giải-Pháp-Cho-Đổi-Mới-Và-Sáng-Tạo.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb46"
+        }
+    },
+    {
+        "name": "Bài Học Vô Giá Từ Những Điều Bình Dị",
+        "countExits": "120",
+        "publication": "13/06/2020",
+        "price": "209000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.jpg",
+        "description": "Một lần, tôi cùng vợ tham gia chương trình “Phát huy thiên tài” của Tiến sĩ Francis Xavier. Chúng tôi hết sức ấn tượng với mục tiêu phát triển nhân cách con người của chương trình này. Nó bao gồm nhiều vấn đề như quản lý thời gian, giải tỏa sự căng thẳng, nâng cao trí nhớ và sức mạnh của não bộ, tăng cường sức khỏe và hạnh phúc.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Bài-học-vô-giá-từ-những-điều-bình-dị.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb47"
+        }
+    },
+    {
+        "name": "Dành Cho Những Con Người Vượt Lên Số Phận",
+        "countExits": "120",
+        "publication": "13/06/2020",
+        "price": "209000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/danh-cho-nhung-con-nguoi-vuot-len-so-phan.jpg",
+        "description": "Mỗi câu chuyện là một thông điệp có thể hàn gắn vết thương, làm thay đổi suy nghĩ, tâm hồn và đôi khi, cả cuộc đời bạn. Những câu chuyện này sẽ làm nên điều khác biệt, mang lại nguồn cảm hứng vô tận cho bạn, một khi đã được truyền cảm hứng, bạn đếu có thể đem đến những điếu tốt đẹp cho bản thân mình và những người xung quanh.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Dành-Cho-Những-Con-Người-Vượt-Lên-Số-Phận.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb47"
+        }
+    },
+    {
+        "name": "Hãy Yêu Cuộc Sống Bạn Chọn",
+        "countExits": "120",
+        "publication": "13/06/2020",
+        "price": "209000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/hay-yeu-cuoc-song-ban-chon.jpg",
+        "description": "Yêu thương là một trong những cách hữu hiệu nhất có thể giúp con người cảm nhận được hạnh phúc. Từ xưa đến nay, khái niệm “hạnh phúc” thường được hiểu theo nhiều nghĩa khác nhau; nhưng nghĩa cơ bản mà chúng ta thường nghĩ đến nhất là “cảm giác hài lòng, mãn nguyện”. Và một điều dễ thấy nữa là: Hạnh phúc thật sự luôn nằm trong nỗ lực không ngừng của con người, nhằm làm cho cuộc sống trở nên tốt đẹp hơn. Với mỗi cá nhân, hạnh phúc chính là sự thanh thản, sự cân bằng giữa nhiều khía cạnh của đời sống, trong mọi hoàn cảnh.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Hãy-Yêu-Thương-Cuộc-Sống.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb47"
+        }
+    },
+    {
+        "name": "Quà Tặng Tâm Hồn Dành Cho Tình Yêu",
+        "countExits": "120",
+        "publication": "13/06/2020",
+        "price": "209000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/qua-tang-tam-hon-danh-cho-tinh-yeu.jpg",
+        "description": "Tình yêu có một sức mạnh lớn lao và là điều diệu kỳ nhất của cuộc sống. Không nơi nào tình yêu thể hiện hết vẻ đẹp và sự kỳ diệu của nó bằng trong mối quan hệ gắn bó giữa hai con người. Quyển “Quà tặng tâm hồn dành cho tình yêu” được biên soạn với hy vọng đưa được điều kỳ diệu và bí ẩn ấy vào trong ngôn từ, những ngôn từ sẽ lay động và gõ cửa trái tim của bất kỳ ai đã yêu hoặc mong đợi tình yêu. Đây là quyển sách dành tặng các cặp vợ chồng, những đôi tình nhân và bất kỳ ai đang mơ ước tìm thấy người bạn tâm giao đích thực của mình.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Quà-Tặng-Tâm-Hồn-Dành-Cho-Tình-Yêu.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb47"
+        }
+    },
+    {
+        "name": "Quà Tặng Từ Trái Tim",
+        "countExits": "120",
+        "publication": "13/06/2020",
+        "price": "209000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/qua-tang-tu-trai-tim.jpg",
+        "description": "Cuộc đời là một câu chuyện. Mục đích của mỗi một đời người là sống sao cho câu chuyện về họ trở thành nguồn cảm hứng và mang lại những cảm xúc mạnh mẽ cho người khác. Những câu chuyện có một sức mạnh kỳ diệu. Chúng cho phép ta nhìn lại bản thân mình trong mối tương quan với những người xung quanh. Chúng như những tấm gương phản ánh hành động của chính chúng ta thông qua hành động của người khác. Chúng giúp chúng ta nhận ra tài năng và phẩm chất của chính mình và đóng vai trò là người nhắc nhở trung thành để chúng ta có cách cư xử phù hợp.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Quà-Tặng-Từ-Trái-Tim.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb47"
+        }
+    },
+    {
+        "name": "Vòng Tay Của Mẹ",
+        "countExits": "125",
+        "publication": "12/06/2020",
+        "price": "220000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/vong-tay-cua-me.jpg",
+        "description": "Mỗi câu chuyện là một thông điệp có thể hàn gắn vết thương, làm thay đổi suy nghĩ, tâm hồn và đôi khi, cả cuộc đời bạn. Chúng tôi thật sự tin rằng những câu chuyện này sẽ làm nên nhiều khác biệt, mang lại nguồn cảm hứng vô tận cho bạn, vì chính cuộc sống tinh thần của chúng tôi cũng tốt hơn sau mỗi lần đọc một câu chuyện hay. Một khi đã được truyền cảm hứng, bạn đều có thể đem đến những điều tốt đẹp cho bản thân mình và những người xung quanh.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Vòng-Tay-Của-Mẹ.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb47"
+        }
+    },
+    {
+        "name": "Hạt Giống Tâm Hồn Dành Cho Tuổi Teen 2",
+        "countExits": "30",
+        "publication": "12/06/2021",
+        "price": "320000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/hat-giong-tam-hon-danh-cho-tuoi-teen.jpg",
+        "description": "Dù bình dị hay phi thường thì mỗi người chúng ta đều có một ước mơ của riêng mình. Ước mơ chính là khởi điểm của niềm tin và là động lực để chúng ta vượt qua tất cả những khó khăn thử thách trong cuộc sống. Đối với các bạn trẻ, ước mơ không chỉ thể hiện khát vọng của các bạn đó còn là thông điệp tin yêu mà các bạn muốn gửi gắm đến cuộc đời.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Hạt-Giống-Tâm-Hồn-Dành-Cho-Tuổi-Teen-2.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb47"
+        }
+    },
+    {
+        "name": "Hạt Giống Tâm Hồn – Dành Cho Học Sinh Sinh Viên",
+        "countExits": "30",
+        "publication": "12/06/2021",
+        "price": "320000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/tim-lai-gia-tri-cuoc-song.jpg",
+        "description": "Tìm lại giá trị cuộc sống sẽ làm lay động, truyền cảm hứng và mang lại niềm vui cho bạn qua những câu chuyện của một số trong hàng triệu người trong cộng đồng đang trên đường tìm lại bản thân. Bạn sẽ nhanh chóng nhận ra rằng những câu chuyện này không hề nói đến nỗi đau đớn và tuyệt vọng, mà kể về niềm hy vọng và sự kiên cường. Đây không phải là những câu chuyện về chiến lược để thay đổi, mà là những câu chuyện về tâm hồn con người – điều sẽ chẳng thể nào chối bỏ được. Đó cũng là chuyện của những con người sẵn sàng giúp đỡ người khác thông qua việc chia sẻ về những giai đoạn khó khăn trong cuộc đời mình.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Tìm-Lại-Giá-Trị-Cuộc-Sống.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb47"
+        }
+    },
+    {
+        "name": "Chị Tôi",
+        "countExits": "344",
+        "publication": "17/06/2021",
+        "price": "32000",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/chi-toi.jpg",
+        "description": "Dù gắn bó do quan hệ huyết thống hay bởi “duyên” gặp gỡ, chị em gái luôn là những người hiểu nhau một cách đặc biệt. Họ không chỉ giống nhau ở diện mạo mà còn có nhiều điểm chung khác: sở thích, tính tình, cách cảm nghiệm cuộc sống. Họ hiểu nhau, chứng kiến quá trình trưởng thành của nhau, nâng bước cho nhau trước sóng gió cuộc đời.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Chị-tôi.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb47"
+        }
+    },
+    {
+        "name": "Từ Làng Gôi Vị Đến Kinh Thành Paris",
+        "countExits": "334",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/tu-lang-goi-vi-den-kinh-thanh-paris.jpg",
+        "description": "Tôi là kẻ giác ngộ chính trị rất chậm. Anh em thì 15-16 tuổi đã tham gia hoạt động. Tôi thì mãi gần 30 tuổi mới có một ít nhận thức về chính trị. Có lẽ tại vì cái thành phần như vậy sống từ bé không có vấn đề gì.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Từ-làng-Gôi-Vị-đến-kinh-thành-Paris.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Công Tử Bạc Liêu Sự Thật Và Giai Thoại",
+        "countExits": "334",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/cong-tu-bac-lieu-su-that-va-giai-thoai.jpg",
+        "description": "Những câu chuyện về Trần Trinh Huy – người được mệnh danh là Công tử Bạc Liêu đã diễn ra khá lâu, đến nay đã hơn nửa thế kỷ. Do trải qua nhiều biến thiên thời cuộc nên những tài liệu liên quan đến dòng họ Trần Trinh hầu như chẳng còn gì. Mọi người tiếp nhận hiện tượng này bằng những thông tin khác nhau và rời rạc qua một ít sách báo và qua truyền miệng dân gian…",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Công-tử-Bạc-Liêu-sự-thật-và-giai-thoại-Phan-Trung-Nghĩa.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Di Cảo Nguyễn Minh Châu",
+        "countExits": "334",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/di-cao-nguyen-minh-chau.jpg",
+        "description": "Vào đầu tháng 7 năm nay, những người quan tâm đến văn học Việt Nam vui mừng đón đọc cuốn Di cảo Nguyễn Minh Châu với gần 500 trang do Nhà xuất bản Hà nội phát hành. Nguyễn Minh Châu là một trong những người tiên phong trong công cuộc đổi mới văn học qua các tập truyện ngắn như Người đàn bà trên chuyến tàu tốc hành, Bến quê, Cỏ lau, qua những tiểu luận xung quanh văn chương và nghề nghiệp đã được tuyển chọn trong Trang giấy trước đèn. Di cảo Nguyễn Minh Châu đã cho chúng ta thấy rõ hơn ý thức đổi mới tư duy nghệ thuật mà với Nguyễn Minh Châu luôn luôn là nỗi trăn trở day dứt khôn nguôi, đặc biệt là trong hơn chục năm cuối đời.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Di-cảo-Nguyễn-Minh-Châu.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Được Sống Và Kể Lại",
+        "countExits": "215",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/duoc-song-va-ke-lai.jpg",
+        "description": "Một buổi tối mùa thu, tự dưng nhớ đến Được Sống và Kể Lại, mình nảy ra ý tưởng làm ebook cuốn sách này. Đây là một trong những cuốn hồi ký chiến tranh hay nhất mình từng đọc. Lúc đầu, khi đang làm, mình nghĩ được nhiều ý tưởng hay để viết lời giới thiệu cho cuốn sách, nhưng sau khi làm và đọc lại, những ý tưởng đó biến mất hết, chỉ còn lại trong tâm tư một nỗi buồn mang mác, nỗi buồn của quá khứ, của chiến tranh, của số phận con người, đặc biệt của người lính.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Được-sống-và-kể-lại.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Đệ Nhất Phu Nhân Trần Lệ Xuân",
+        "countExits": "215",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/de-nhat-phu-nhan-tran-le-xuan.jpg",
+        "description": "Những tràng đạn liên xé tan không khí nồng nực buổi trưa nắng Sài Gòn tăng thêm hơi khét cháy của mùi thuốc súng. Từng lúc tiếng nổ ầm của lựu đạn vang dội nhắc nhở mọi người là đang có đánh nhau giữa lòng thành phố. Chiến cuộc đã diễn ra từ khuya hôm qua giữa binh sĩ theo họ Ngô và nhóm Bình Xuyên.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Đệ-Nhất-Phu-Nhân-Trần-Lệ-Xuân.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Đường Tới Điện Biên Phủ",
+        "countExits": "329",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/duong-toi-dien-bien-phu.jpg",
+        "description": "Nhân dịp sắp kỷ niệm chiến thắng Điện Biên Phủ, giử tặng các bạn hồi ký của Đại tướng Võ Nguyên Giáp – Đường tới Điện Biên Phủ. Lúc đó ở đồng bằng, lực lượng của Pháp còn rất nhiều và mạnh, hơn nưa, ngay cả tướng Giáp cũng nói rằng, Việt Minh không thể tác chiến với chủ lực của Pháp ở đồng bằng được vì sẽ lâm vào thế bất lợi do không có không quan yểm trợ và cơ động thì không bằng !?!",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Đệ-Nhất-Phu-Nhân-Trần-Lệ-Xuân.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Đường Xuyên Trường Sơn",
+        "countExits": "385",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/duong-xuyen-truong-son.jpg",
+        "description": "Hơn sáu mươi năm hoạt động và công tác, kể từ trước Cách mạng tháng Tám năm 1945, tôi đã trải qua nhiều công việc, nhiều địa bàn khác nhau; khi hoạt động bí mật, lúc chiến đấu trong vùng địch hậu; khi hoạt động trong nước, khi công tác ở nước ngoài Trong chiến tranh, có lúc tôi làm chính trị, có lúc chỉ huy chiến đấu… Đất nước hoà bình, tôi chuyển sang hoạt động trên lĩnh vực kinh tế, công nghiệp, giao thông vận tải – dịch vụ, xây dựng cơ sở hạ tầng… Cũng quãng thời gian đó, tôi từng đảm trúch nhiều cương vị công tác khác nhau: cấp xã, huyện, tỉnh, quân khu, binh đoàn, tổng cục, bộ, rồi Trung ương Đảng, Chính phủ, Quốc hội…",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Đường-xuyên-Trường-Sơn.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Giải Mã Phạm Xuân Ẩn",
+        "countExits": "184",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/giai-ma-pham-xuan-an.jpg",
+        "description": "Trước khi loạt ký sự Tướng tình báo chiến lược đăng trên Thanh Niên vào năm 2001, chúng tôi đã gặp Phạm Xuân Ẩn rất nhiều lần. Càng nói chuyện với ông càng thất vọng, vì không thể “moi” được bất cứ một điệp vụ nào. Đọc cuốn sách rất hay của nhà văn Nguyễn Thị Ngọc Hải, cũng chỉ thấy cuộc đời và những triết lý của ông cùng sự thán phục của bạn bè nước ngoài, chứ không thấy ông làm những gì cụ thể. Chúng tôi buộc phải tiến hành một loạt các “điệp vụ” để phăng ra các đầu mối, gặp những “cấp trên” của ông và hầu hết những người còn sống trong mạng lưới, rồi đem những điều biết được ra hỏi ông, lúc đó ông mới chịu “mở miệng”. Chúng tôi biết tới đâu viết tới đó, đăng feuilleton hằng ngày, xen kẽ giữa những tài liệu là những cuộc phỏng vấn chính ông và một loạt các phỏng vấn các người khác. Mỗi buổi sáng ông đọc báo, lại tiếp tục trao đổi, qua điện thoại hoặc chúng tôi đến nhà ông. Ông nhắc đi nhắc lại “không nên tô vẽ”, thỉnh thoảng ông hỏi: “Cái đó ở đâu cậu có ?”. Ông bảo không nên viết dài quá, đến kỳ cuối cùng, ông gọi điện bảo: “Như vậy là được rồi”. Ông đề nghị nên in thành một cuốn sách nhưng “giá phải thật rẻ để người nghèo có thể mua đọc”.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/“Giải-mã”-Phạm-Xuân-Ẩn.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Georges Entienne Gauthier Và Những Nhạc Phẩm Của Phạm Duy",
+        "countExits": "184",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/georges-entienne-gauthier-va-nhung-nhac-pham-cua-pham-duy.jpg",
+        "description": "Phạm Duy sinh tại Hà Nội năm 1921, theo học các Trường Trung Học Thăng Long, Cao Ðẳng Mỹ Thuật, Kỹ Nghệ Thực Hành, tự học nhạc và đi huấn nghệ tại Pháp trong hai năm 1954-1955, học trò của Robert Lopez và bàng thính viên tại Institut de Musicologie, Paris.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Georges-Entienne-Gauthier-Và-những-nhạc-phẩm-của-Phạm-Duy.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Gọng Kềm Lịch Sử",
+        "countExits": "754",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/gong-kem-lich-su.jpg",
+        "description": "Một giọng nói yếu ớt, giục dã xuyên qua những tiếng ồ ồ ở đầu giây điện đàm: “Ông Diễm, Bob Shaplen đây, Bob Shaplen. Tôi đang gọi từ Hồng Kông.” Giọng nói lập đi lập lại tên người gọi, nhưng cơn ngủ say vùi vừa xong và những viên thuốc cho cơn cảm cúm khốc liệt vẫn làm tôi mù mờ về người đang gọi.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Gọng-kềm-lịch-sử.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Hồi Ký Trần Văn Giàu",
+        "countExits": "75",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/hoi-ky-tran-van-giau.jpg",
+        "description": "Tôi viết tập “hồi ký” này từ cuối những năm 1970. Viết xong, tôi nhờ anh em ở Long An ̶ tỉnh nhà ̶ đánh máy; ý muốn viết hồi ký để con cháu xem chớ không phải để in ra thành sách, vì trong hồi ký có lắm chuyện “không lấy gì làm hay”, buồn nữa là khác. Nhưng vài ba anh em Long An, không xin phép tôi, tự ý đánh máy thêm mấy bản, chỉ giao lại cho tôi hai bản, họ giữ mấy bản tôi không biết, nhưng tôi được biết họ đã chuyền tay đọc khá rộng. Nhiều bạn bảo tôi cứ phát hành tập hồi ký này đi. Tôi không ưng. Có lý do. Tôi thấy rằng không ít hồi ký đã được in ấn kể sự việc rất hay mà cũng chen vào một ít điều hoặc tác giả bịa hoặc lúc nghe kể đã thất thiệt.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Hồi-ký-Trần-Văn-Giàu.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb68"
+        }
+    },
+    {
+        "name": "Cambridge English Fun For Starters – Movers – Flyers 4th Edition",
+        "countExits": "515",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/cambridge-english-fun-for-starters-movers-flyers-4th-edition.jpg",
+        "description": "Bộ sách gồm 3 mức độ, trong đó mỗi bài học được trình bày với hình minh họa hấp dẫn, kèm theo đó là các hoạt động thu thút học sinh tương tác nâng cao kỹ năng. Bộ sách giúp học sinh nâng cao kỹ năng ngữ pháp, mở rộng từ vựng và đặc biệt là phát huy kỹ năng nói thông qua các hoạt động thực hành đa dạng theo nhiều chủ đề khác nhau.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Fun-for-Starters-TB-4e.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb4a"
+        }
+    },
+    {
+        "name": "Everyday Conversations English Full Ebook + Audio",
+        "countExits": "302",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/everyday-conversations-english.jpg",
+        "description": "Bộ giáo trình “Everyday Conversations English – Learning American English” (ebook + audio) bao gồm các đoạn hội thoại xoay quanh các chủ đề về giới thiệu và câu chuyện nhỏ, mua sắm, chỉ đường, ăn uống, thời trang, sở thích và đưa ra lời khuyên trong tiếng anh giúp bạn trau dồi về cách đàm thoại và sử dụng văn phạm trong nhiều ngữ cảnh khác nhau.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/B_Dialogues_Everyday_Conversations_English_LO.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb4a"
+        }
+    },
+    {
+        "name": "Get Ready For Flyers Full EBook + Audio",
+        "countExits": "516",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/get-ready-for-flyers.jpg",
+        "description": "Cuốn sách “Get Ready for Flyers” chứa đựng các chủ đề hay bao gồm tất cả các ngữ pháp, từ vựng và các loại công việc trong giáo trình. Sách được thiết kế với các chủ đề gần gụi, cùng với các hình ảnh sinh động, sẽ giúp các em học tốt, cảm thấy thú vị. Ngoài ra còn kèm các file audio sẽ thuận lợi cho các em rèn luyện theo giọng đọc của người bản địa.",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Get-Ready-for-Starters.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb4a"
+        }
+    },
+    {
+        "name": "Show And Tell 1 Student Book",
+        "countExits": "274",
+        "publication": "11/05/2021",
+        "price": "320009",
+        "imageBook": "http://localhost:3000/api/v1/books/get-file/show-and-tell-1-student-book.jpg",
+        "description": "Cuốn sách “Show and Tell 1 Student book” là mức độ thứ nhất nằm trong bộ sách Show and Tell 3 mức độ của nhà xuất bản Oxford University Press cung cấp cho các em ở lứa tuổi mẫu giáo từ độ tuổi 3-5 tuổi, đây là một trong những bộ sách nổi tiếng của nhà xuất bản này, hiện được nhiều trung tâm dạy anh ngữ lựa chọn là giáo trình chính để dạy các em nhỏ. Với việc bố trí các chủ đề nhẹ nhàng cộng với hình ảnh minh họa sinh động, bắt mắt dễ lôi cuốn các em học tập và vui đùa",
+        "discount": "10%",
+        "linkDoc": "http://localhost:3000/api/v1/books/get-file/Show-and-Tell-1-Activity-Book.pdf",
+        "idPublisher": "",
+        "idAuthor": "",
+        "idTopic": {
+            "$oid": "619780d2e1df9b8fed7cbb4a"
+        }
+    }
 ]

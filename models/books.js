@@ -2,18 +2,27 @@ const MainModel = require('../schemas/books')
 
 module.exports = {
     listItem: (params, option) => {
-        const queryFind = { ...params }
+        const queryFind = { ...(params || {}) }
         let find, select, sort
         //Find fields
         let removeFields = ['select', 'sort', 'page', 'limit'];
         removeFields.forEach(params => delete queryFind[params])
-        let queryStr = JSON.stringify(queryFind);
-        queryStr = queryStr.replace(/\b(gt|gte|lt|lte|in)\b/g, find => `$${find}`);
-        find = JSON.parse(queryStr)
+        // let queryStr = JSON.stringify(queryFind);
+        // queryStr = queryStr.replace(/\b(gt|gte|lt|lte|in)\b/g, find => `$${find}`);
+        const keys = Object.keys(params);
+        if(params.name){
+            params.name = JSON.parse(params.name);
+        };
+        if(params.description){
+            params.description = JSON.parse(params.description);
+        }
+        find = params;
         //Select fields
+        console.log(find);
         if (params.select) {
             select = params.select.split(',').join(' ')
         }
+        // return MainModel.find({ name: {'$regex' : 'a', '$options' : 'i'} })
         //Sort fields
         if (params.sort) {
             sort = params.sort.split(',').join('')

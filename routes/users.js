@@ -7,11 +7,10 @@ const UserModel = require('../models/users')
 
 /* GET users listing. */
 router.get('/', asyncHandler(async (req, res, next) => {
-  const dataAll = await UserModel.listItem('', { 'task': 'all' })
   const data = await UserModel.listItem(req.query, { 'task': 'all' })
   res.status(200).json({
     success: true,
-    count: dataAll.length,
+    count: data.length,
     data: data
   })
 }))

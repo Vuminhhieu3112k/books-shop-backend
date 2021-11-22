@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var asyncHandler = require('../middleware/async')
+var path = require('path');
 const multer  = require('multer')
 const MainModel = require('../models/books')
 var path = require('path');
@@ -17,11 +18,11 @@ var storage = multer.diskStorage({
 var upload = multer({ storage: storage })
 /* GET users listing. */
 router.get('/', asyncHandler(async (req, res, next) => {
-  const dataAll = await MainModel.listItem('', { 'task': 'all' })
+  // const dataAll = await MainModel.listItem({}, { 'task': 'all' })
   const data = await MainModel.listItem(req.query, { 'task': 'all' })
   res.status(200).json({
     success: true,
-    count: dataAll.length,
+    count: data.length,
     data: data
   })
 }))
